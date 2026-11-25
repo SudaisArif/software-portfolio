@@ -1,0 +1,46 @@
+{
+  "title": "Colder. Less growth?",
+  "brand": "REP SIGNAL",
+  "format": "real_footage_study_visual_essay",
+  "duration_seconds": 39,
+  "narration_mode": "none_intentional_visual_essay",
+  "factual_caveat": "The 2015 trial studied repeated approximately 10°C cold-water immersion for 10 minutes immediately after twice-weekly lower-body resistance sessions over 12 weeks. Twenty-four young trained men enrolled and 21 were analyzed. It does not establish effects of ordinary cold showers, every use of cold, or an exact safe timing threshold. The 2024 eight-study synthesis suggests attenuated hypertrophy but study quality limits confidence. The frozen-lake stock clip is illustrative and does not reproduce the trial setting or water temperature.",
+  "sources": [
+    {
+      "id": "roberts2015",
+      "title": "Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations in muscle to strength training",
+      "authors": "Roberts et al.",
+      "year": 2015,
+      "display_citation": "Roberts et al. · 2015",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4594298/",
+      "doi": "10.1113/JP270570",
+      "design": "Randomized trial; chronic-training component: 24 enrolled, 21 analyzed; physically active young men with at least 12 months of strength-training experience; 12 weeks; twice-weekly lower-body training; 10 minutes of approximately 10°C immersion or low-intensity cycling after sessions.",
+      "claim_scope": "The active-recovery group showed greater gains in measured muscle mass and strength. These findings concern this repeated post-training protocol, not all forms of cold exposure."
+    },
+    {
+      "id": "pinero2024",
+      "title": "Throwing cold water on muscle growth: A systematic review with meta-analysis of the effects of postexercise cold water immersion on resistance training-induced hypertrophy",
+      "authors": "Piñero et al.",
+      "year": 2024,
+      "display_citation": "Piñero et al. · 2024 / 8-study review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11235606/",
+      "doi": "10.1002/ejsc.12074",
+      "design": "Systematic review and meta-analysis; eight studies.",
+      "claim_scope": "Immediate post-training immersion may attenuate muscle hypertrophy. Relatively fair-to-poor study quality limits certainty."
+    }
+  ],
+  "beats": [
+    {"start": 0, "end": 3, "shot": "pexels-30578100", "source_start": 3, "speed": 1, "chapter": "THE RECOVERY QUESTION", "title": ["COLDER.", "LESS GROWTH?"], "accent_line": 1, "caption": "Could post-lift cold immersion\nreduce muscle gains?", "source": "roberts2015", "layout": "hook"},
+    {"start": 3, "end": 6, "shot": "pexels-36785554", "source_start": 1, "speed": 1, "chapter": "TWO DIFFERENT GOALS", "title": ["RECOVERY ≠", "MUSCLE GROWTH."], "accent_line": 0, "caption": "A 12-week trial tested\ntwo post-training routines.", "source": "roberts2015", "layout": "hook"},
+    {"start": 6, "end": 10, "shot": "pexels-4921641", "source_start": 1, "speed": 1, "chapter": "THE EXPERIMENT", "title": ["21 TRAINED", "MEN ANALYZED."], "accent_line": 0, "caption": "24 enrolled. Twice-weekly\nlower-body strength training.", "source": "roberts2015", "layout": "design", "design_badges": ["RANDOMIZED", "12 WEEKS"]},
+    {"start": 10, "end": 14, "shot": "pexels-4746007", "source_start": 1, "speed": 1, "chapter": "AFTER EACH SESSION", "title": ["10 MINUTES.", "TWO ROUTINES."], "accent_line": 0, "caption": "Cold-water immersion\nversus low-intensity cycling.", "source": "roberts2015", "layout": "comparison", "comparison_badges": ["~10°C WATER", "EASY CYCLE"]},
+    {"start": 14, "end": 18, "shot": "pexels-36785554", "source_start": 7, "speed": 1, "chapter": "WHAT HAPPENED", "title": ["CYCLING GROUP:", "MORE GAINS."], "accent_line": 1, "caption": "Greater measured muscle-mass\nand strength gains in this trial.", "source": "roberts2015", "layout": "result"},
+    {"start": 18, "end": 22, "shot": "pexels-4921641", "source_start": 4, "speed": 1, "chapter": "KEEP THE LIMITS", "title": ["SMALL STUDY.", "SPECIFIC TEST."], "accent_line": 0, "caption": "Young trained men.\nThis wasn't a cold-shower trial.", "source": "roberts2015", "layout": "caveat"},
+    {"start": 22, "end": 26, "shot": "pexels-30578100", "source_start": 6, "speed": 1, "chapter": "WHAT THE TRIAL TESTED", "title": ["REPEATED.", "RIGHT AFTER."], "accent_line": 1, "caption": "Repeated post-training immersion.\nLake footage illustrates the topic,\nnot the trial's setting or temperature.", "source": "roberts2015", "layout": "caveat"},
+    {"start": 26, "end": 31, "shot": "pexels-36785554", "source_start": 14, "speed": 1, "chapter": "THE WIDER EVIDENCE", "title": ["8 STUDIES.", "SAME CONCERN."], "accent_line": 1, "caption": "A 2024 review: immediate immersion\nmay reduce muscle growth.\nStudy quality limits confidence.", "source": "pinero2024", "layout": "review"},
+    {"start": 31, "end": 35, "shot": "pexels-30578100", "source_start": 0, "speed": 1, "chapter": "DON'T OVERREAD THE RESULT", "title": ["NOT EVERY", "USE OF COLD."], "accent_line": 1, "caption": "An occasional cold shower\nwasn't what this trial tested.", "source": "roberts2015", "layout": "takeaway"},
+    {"start": 35, "end": 39, "shot": "pexels-36785554", "source_start": 22, "speed": 1, "chapter": "EVIDENCE + DISCIPLINE", "title": ["MATCH RECOVERY", "TO THE GOAL."], "accent_line": 1, "caption": "Save the study.\nKeep the limits with the claim.", "source": "pinero2024", "layout": "closing"}
+  ],
+  "human_recording_script": "Your recovery routine and your muscle-building goal can pull in different directions. In a twelve-week trial, twenty-one trained men finished lifting with either ten minutes of cold-water immersion or easy cycling. The cycling group gained more muscle and strength. A later review also found that cold immersion soon after lifting may reduce muscle growth, though the studies had limitations. This is about repeated cold immersion straight after training. It does not prove that an occasional cold shower ruins your progress.",
+  "human_delivery_direction": "A calm, curious training partner. Open with mild surprise, explain the protocol plainly, and slow down for the limit. Do not perform an ice-bath challenge or imitate a named person. This script is a future recording brief; it is not present in the voice-free preview audio."
+}

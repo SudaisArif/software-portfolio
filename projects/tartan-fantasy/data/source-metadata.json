@@ -1,0 +1,45 @@
+{
+  "lastVerified": "2026-08-29",
+  "timezone": "America/New_York",
+  "roster": {
+    "season": "2026-27",
+    "url": "https://athletics.cmu.edu/sports/msoc/2026-27/roster",
+    "players": 33
+  },
+  "schedule": {
+    "season": "2026-27",
+    "url": "https://athletics.cmu.edu/sports/msoc/2026-27/schedule",
+    "gameweeks": 18
+  },
+  "historicalStats": {
+    "seasons": [
+      {
+        "season": "2023-24",
+        "url": "https://athletics.cmu.edu/sports/msoc/2023-24/teams/carnegiemellon",
+        "records": 33
+      },
+      {
+        "season": "2024-25",
+        "url": "https://athletics.cmu.edu/sports/msoc/2024-25/teams/carnegiemellon",
+        "records": 37
+      },
+      {
+        "season": "2025-26",
+        "url": "https://athletics.cmu.edu/sports/msoc/2025-26/teams/carnegiemellon",
+        "records": 36
+      }
+    ]
+  },
+  "liveData": {
+    "competition": "NCAA Division III men's soccer",
+    "scoreboardUrl": "https://www.ncaa.com/scoreboard/soccer-men/d3",
+    "dataProxyUrl": "https://ncaa-api.henrygd.me/",
+    "note": "The JSON proxy is an open-source wrapper around NCAA.com data, not an official NCAA API. CMU/PrestoSports box scores remain the fallback."
+  },
+  "video": {
+    "provider": "FloCollege / FloFC",
+    "teamUrl": "https://www.flofc.com/teams/11194390-carnegie-mellon-mens-soccer",
+    "note": "Streams and commentary are linked only; access may require a subscription."
+  },
+  "status": "The 2026 season is in preseason. NCAA game IDs and live records populate as games appear on the Division III scoreboard."
+}

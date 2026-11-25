@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#a6192e" />
+    <meta name="description" content="Tartan Fantasy — fantasy soccer built around Carnegie Mellon men's soccer." />
+    <title>Tartan Fantasy</title>
+    <link rel="icon" href="assets/tartan-mark.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Primary navigation">
+        <a class="brand" href="#overview" aria-label="Tartan Fantasy home">
+          <img src="assets/tartan-mark.svg" alt="" width="44" height="44" />
+          <span><b>Tartan</b><small>Fantasy</small></span>
+        </a>
+        <nav class="nav-list" id="desktop-nav"></nav>
+        <div class="sidebar-callout">
+          <span class="eyebrow">2026 season</span>
+          <b>Built for the squad.</b>
+          <p>18 fixtures. 33 Tartans. One champion.</p>
+        </div>
+        <a class="source-link" href="https://athletics.cmu.edu/sports/msoc/2026-27/schedule" target="_blank" rel="noreferrer">
+          Official CMU Athletics ↗
+        </a>
+      </aside>
+
+      <div class="main-column">
+        <header class="topbar">
+          <div>
+            <span class="topbar-kicker">Carnegie Mellon Men’s Soccer</span>
+            <h1 id="page-title">Overview</h1>
+          </div>
+          <div class="topbar-actions">
+            <a class="button secondary account-link" id="account-link" href="#leagues">Sign in</a>
+            <button class="icon-button" id="theme-button" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+              <span aria-hidden="true">◐</span>
+            </button>
+            <button class="manager-pill" id="rename-team" type="button" title="Rename your team">
+              <span class="manager-avatar">SM</span>
+              <span><small>My team</small><b id="team-name-label">Scotty’s Select</b></span>
+            </button>
+          </div>
+        </header>
+        <main id="app" tabindex="-1">
+          <div class="loading-state">
+            <img src="assets/tartan-mark.svg" alt="" width="62" height="62" />
+            <p>Setting the formation…</p>
+          </div>
+        </main>
+      </div>
+    </div>
+
+    <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation"></nav>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <dialog class="player-dialog" id="player-dialog">
+      <button class="dialog-close" type="button" data-action="close-dialog" aria-label="Close">×</button>
+      <div id="player-dialog-content"></div>
+    </dialog>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

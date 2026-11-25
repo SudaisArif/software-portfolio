@@ -1,0 +1,332 @@
+[
+  {
+    "id": "nicholas-macouzet",
+    "number": "00",
+    "name": "Nicholas Macouzet",
+    "position": "GK",
+    "class": "Fr",
+    "height": "6-1",
+    "hometown": "Houston, Texas / Strake Jesuit College Prep",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/macouzet_nicholas_3f3o"
+  },
+  {
+    "id": "knox-foster",
+    "number": "1",
+    "name": "Knox Foster",
+    "position": "GK",
+    "class": "So",
+    "height": "6-1",
+    "hometown": "Louisville, Ky. / Trinity",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/foster_knox_m0q3"
+  },
+  {
+    "id": "buck-magee",
+    "number": "2",
+    "name": "Buck Magee",
+    "position": "DEF",
+    "class": "So",
+    "height": "5-7",
+    "hometown": "Chapel Hill, N.C. / East Chapel Hill",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/magee_buck_cnqt"
+  },
+  {
+    "id": "nathan-yao",
+    "number": "3",
+    "name": "Nathan Yao",
+    "position": "DEF",
+    "class": "Sr",
+    "height": "5-7",
+    "hometown": "St. Louis, Mo. / Mary Institute and Country Day School",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/yao_nathan_k10m"
+  },
+  {
+    "id": "kieran-raker",
+    "number": "4",
+    "name": "Kieran Raker",
+    "position": "DEF",
+    "class": "Jr",
+    "height": "6-0",
+    "hometown": "Greenwich, Conn. / Brunswick",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/raker_kieran_pnfx"
+  },
+  {
+    "id": "sola-nishimura",
+    "number": "5",
+    "name": "Sola Nishimura",
+    "position": "MID",
+    "class": "Jr",
+    "height": "6-0",
+    "hometown": "Tokyo, Japan/Bay Area, Calif. / Mountain View",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/nishimura_sola_7hd6"
+  },
+  {
+    "id": "leo-salvucci",
+    "number": "6",
+    "name": "Leo Salvucci",
+    "position": "MID",
+    "class": "Jr",
+    "height": "5-11",
+    "hometown": "Elverson, Pa. / Westtown",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/salvucci_leo_sa15"
+  },
+  {
+    "id": "drew-mckim",
+    "number": "7",
+    "name": "Drew McKim",
+    "position": "MID",
+    "class": "Jr",
+    "height": "5-8",
+    "hometown": "Pittsburgh, Pa. / Shady Side Academy",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/mckim_drew_gl96"
+  },
+  {
+    "id": "dominic-hoar-weiler",
+    "number": "8",
+    "name": "Dominic Hoar-Weiler",
+    "position": "MID",
+    "class": "Sr",
+    "height": "6-0",
+    "hometown": "Portland, Ore. / Jesuit",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/hoar-weiler_dominic_pjay"
+  },
+  {
+    "id": "henry-hawthorn",
+    "number": "9",
+    "name": "Henry Hawthorn",
+    "position": "DEF",
+    "class": "Sr",
+    "height": "6-2",
+    "hometown": "Missouri City, Texas / The Kinkaid School",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/hawthorn_henry_93az"
+  },
+  {
+    "id": "james-ashby",
+    "number": "10",
+    "name": "James Ashby",
+    "position": "FWD",
+    "class": "Jr",
+    "height": "5-11",
+    "hometown": "Fairfax, Va. / Chantilly",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/ashby_james_13lz"
+  },
+  {
+    "id": "justin-fung",
+    "number": "11",
+    "name": "Justin Fung",
+    "position": "FWD",
+    "class": "Sr",
+    "height": "5-10",
+    "hometown": "Los Altos, Calif. / The Harker School",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/fung_justin_v8s6"
+  },
+  {
+    "id": "idan-garten",
+    "number": "12",
+    "name": "Idan Garten",
+    "position": "FWD",
+    "class": "So",
+    "height": "5-9",
+    "hometown": "Los Altos, Calif. / Los Altos",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/garten_idan_v5bz"
+  },
+  {
+    "id": "julian-koide",
+    "number": "13",
+    "name": "Julian Koide",
+    "position": "MID",
+    "class": "Sr",
+    "height": "5-9",
+    "hometown": "Rye, N.Y. / Rye",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/koide_julian_4sql"
+  },
+  {
+    "id": "spencer-madge",
+    "number": "14",
+    "name": "Spencer Madge",
+    "position": "MID",
+    "class": "So",
+    "height": "5-11",
+    "hometown": "Wellesley, Mass. / Phillips Academy",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/madge_spencer_idzg"
+  },
+  {
+    "id": "miguel-larrainzar",
+    "number": "15",
+    "name": "Miguel Larrainzar",
+    "position": "DEF",
+    "class": "Fr",
+    "height": "5-9",
+    "hometown": "Madrid, Spain / Charterhouse",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/larrainzar_miguel_1qah"
+  },
+  {
+    "id": "mateas-fitzwilliam",
+    "number": "16",
+    "name": "Mateas Fitzwilliam",
+    "position": "DEF",
+    "class": "So",
+    "height": "6-0",
+    "hometown": "Palo Alto, Calif. / Henry M. Gunn",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/fitzwilliam_mateas_y6zw"
+  },
+  {
+    "id": "ben-park",
+    "number": "17",
+    "name": "Ben Park",
+    "position": "FWD",
+    "class": "So",
+    "height": "5-8",
+    "hometown": "Mercer Island, Wash. / Mercer Island",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/park_ben_encc"
+  },
+  {
+    "id": "paxton-hafner",
+    "number": "18",
+    "name": "Paxton Hafner",
+    "position": "FWD",
+    "class": "So",
+    "height": "6-4",
+    "hometown": "Cincinnati, Ohio / Archbishop Moeller",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/hafner_paxton_zgtm"
+  },
+  {
+    "id": "tristan-gonzalez",
+    "number": "19",
+    "name": "Tristan Gonzalez",
+    "position": "MID",
+    "class": "Jr",
+    "height": "6-2",
+    "hometown": "Westport, Conn. / Staples",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/gonzalez_tristan_f68a"
+  },
+  {
+    "id": "nolan-hughes",
+    "number": "20",
+    "name": "Nolan Hughes",
+    "position": "DEF",
+    "class": "Sr",
+    "height": "5-8",
+    "hometown": "Harleysville, Pa. / Souderton",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/hughes_nolan_q916"
+  },
+  {
+    "id": "rishi-kunderan",
+    "number": "21",
+    "name": "Rishi Kunderan",
+    "position": "MID",
+    "class": "So",
+    "height": "6-1",
+    "hometown": "East Brunswick, N.J. / East Brunswick",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/kunderan_rishi_lqux"
+  },
+  {
+    "id": "sandor-preda",
+    "number": "22",
+    "name": "Sandor Preda",
+    "position": "DEF",
+    "class": "Jr",
+    "height": "5-11",
+    "hometown": "Richmond, Va. / Maggie Walker Governor's School",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/preda_sandor_jasm"
+  },
+  {
+    "id": "alex-popov",
+    "number": "23",
+    "name": "Alex Popov",
+    "position": "FWD",
+    "class": "Fr",
+    "height": "6-0",
+    "hometown": "Chicago, Ill. / Rolling Meadows",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/popov_alex_tm87"
+  },
+  {
+    "id": "thomas-thornton",
+    "number": "24",
+    "name": "Thomas Thornton",
+    "position": "FWD",
+    "class": "Fr",
+    "height": "6-0",
+    "hometown": "Columbus, Ohio / Saint Charles Prep",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/thornton_thomas_l0en"
+  },
+  {
+    "id": "zach-magner",
+    "number": "25",
+    "name": "Zach Magner",
+    "position": "DEF",
+    "class": "Fr",
+    "height": "6-2",
+    "hometown": "Fairfield, Conn. / Fairfield Warde",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/magner_zach_tppe"
+  },
+  {
+    "id": "nicholas-kourakis",
+    "number": "27",
+    "name": "Nicholas Kourakis",
+    "position": "FWD",
+    "class": "Sr",
+    "height": "6-2",
+    "hometown": "Vero Beach, Fla. / Montverde Academy",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/kourakis_nicholas_uuio"
+  },
+  {
+    "id": "max-born",
+    "number": "28",
+    "name": "Max Born",
+    "position": "FWD",
+    "class": "Fr",
+    "height": "6-3",
+    "hometown": "Buenos Aires, Argentina / Western Reserve Academy",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/born_max_xc77"
+  },
+  {
+    "id": "ian-kim",
+    "number": "30",
+    "name": "Ian Kim",
+    "position": "MID",
+    "class": "Fr",
+    "height": "5-7",
+    "hometown": "Bellevue, Wash. / The Bear Creek School",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/kim_ian_zqfp"
+  },
+  {
+    "id": "jaimin-fee",
+    "number": "33",
+    "name": "Jaimin Fee",
+    "position": "MID",
+    "class": "Sr",
+    "height": "6-0",
+    "hometown": "Chalfont, Pa. / Central Bucks South",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/fee_jaimin_ggyk"
+  },
+  {
+    "id": "robbie-gresham",
+    "number": "35",
+    "name": "Robbie Gresham",
+    "position": "DEF",
+    "class": "Jr",
+    "height": "5-10",
+    "hometown": "Darnestown, Md. / Our Lady of Good Counsel",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/gresham_robbie_44b6"
+  },
+  {
+    "id": "kai-yamamoto",
+    "number": "37",
+    "name": "Kai Yamamoto",
+    "position": "GK",
+    "class": "Sr",
+    "height": "6-0",
+    "hometown": "Singapore / Dulwich College Singapore",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/yamamoto_kai_ds0v"
+  },
+  {
+    "id": "azdeen-zack",
+    "number": "99",
+    "name": "Azdeen Zack",
+    "position": "GK",
+    "class": "Sr",
+    "height": "6-0",
+    "hometown": "Houston, Texas / Awty International School",
+    "rosterUrl": "https://athletics.cmu.edu/sports/msoc/2026-27/bios/zack_azdeen_4crp"
+  }
+]

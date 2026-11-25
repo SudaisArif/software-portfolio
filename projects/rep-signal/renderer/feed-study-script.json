@@ -1,0 +1,63 @@
+{
+  "title": "Is your rest timer costing you strength?",
+  "brand": "REP SIGNAL",
+  "target_duration_seconds": [
+    35,
+    45
+  ],
+  "status": "revised_original_pending_owner_review",
+  "publishable": false,
+  "voice_direction": "Conversational British training partner; brisk and curious, never announcer-like. Distributed synthetic stock voice; no human impersonation.",
+  "script": "Your one-minute rest timer might be costing you strength. One minute versus three: in a small eight-week trial, the three-minute group gained more squat and bench strength. Same planned workouts. Different breaks. So why rush back just to struggle through the next set? This was twenty-one trained men, so three minutes isn't a magic rule for everyone. But if your reps keep falling off a cliff, try resting longer and compare. And be honest: do you actually feel ready, or do you just feel guilty sitting still? What's your rest time? And which lift?",
+  "segments": [
+    {
+      "id": "f01",
+      "text": "Your one-minute rest timer might be costing you strength."
+    },
+    {
+      "id": "f02",
+      "text": "One minute versus three: in a small eight-week trial, the three-minute group gained more squat and bench strength."
+    },
+    {
+      "id": "f03",
+      "text": "Same planned workouts. Different breaks."
+    },
+    {
+      "id": "f04",
+      "text": "So why rush back just to struggle through the next set?"
+    },
+    {
+      "id": "f05",
+      "text": "This was twenty-one trained men, so three minutes isn't a magic rule for everyone."
+    },
+    {
+      "id": "f06",
+      "text": "But if your reps keep falling off a cliff, try resting longer and compare."
+    },
+    {
+      "id": "f07",
+      "text": "And be honest: do you actually feel ready, or do you just feel guilty sitting still?"
+    },
+    {
+      "id": "f08",
+      "text": "What's your rest time? And which lift?"
+    }
+  ],
+  "sources": [
+    {
+      "id": "schoenfeld2016",
+      "title": "Longer Interset Rest Periods Enhance Muscle Strength and Hypertrophy in Resistance-Trained Men",
+      "authors": "Schoenfeld et al.",
+      "year": 2016,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/",
+      "doi": "10.1519/JSC.0000000000001272",
+      "design": "Randomized trial; 21 young resistance-trained men; eight weeks; one versus three minutes between sets; three full-body sessions per week.",
+      "claim_scope": "The three-minute group improved squat and bench 1RM more and gained more anterior-thigh muscle thickness. Do not generalize this to every muscle or demographic.",
+      "display_citation": "Schoenfeld et al. \u00b7 2016"
+    }
+  ],
+  "public_citation_policy": "No burned citations or paper references in public caption; evidence is retained in internal provenance.",
+  "factual_caveat": "Small eight-week trial of 21 young resistance-trained men; not a universal prescription. Same planned sessions, not necessarily equal completed training volume.",
+  "evidence_verified_utc": "2026-11-17",
+  "revision_reason": "Owner requested faster, more engaging cut without academic footers, references or draft labels."
+}

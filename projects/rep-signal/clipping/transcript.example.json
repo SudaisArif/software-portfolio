@@ -1,0 +1,9 @@
+{
+  "source_url": "https://example.org/replace-with-licensed-source",
+  "source_sha256": "REPLACE_WITH_SHA256_OF_ACTUAL_LOCAL_MEDIA",
+  "transcript_reviewed_by": "",
+  "segments": [
+    {"start":0,"end":10,"text":"Replace this with exact source speech and verified timestamps."},
+    {"start":10,"end":20,"text":"Preserve qualifications and the surrounding context."}
+  ]
+}

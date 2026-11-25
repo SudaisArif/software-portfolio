@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "style": "cinematic_editorial_real_footage",
+  "segments": [
+    {
+      "id": "s01",
+      "chapter": "THE REST QUESTION",
+      "title": [
+        "MORE REST.",
+        "MORE STRENGTH?"
+      ],
+      "graphic": null,
+      "source": "schoenfeld2016",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4921642",
+          "source_start": 2,
+          "speed": 1
+        },
+        {
+          "shot": "pexels-7672123",
+          "source_start": 1,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "chapter": "A SMALL CHANGE?",
+      "title": [
+        "THE EASIEST",
+        "UPGRADE?"
+      ],
+      "graphic": null,
+      "source": "schoenfeld2016",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4367575",
+          "source_start": 1,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "chapter": "FOLLOW THE EVIDENCE",
+      "title": [
+        "A CLUE.",
+        "NOT A RULE."
+      ],
+      "graphic": null,
+      "source": "schoenfeld2016",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-7672123",
+          "source_start": 9,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "chapter": "THE EXPERIMENT",
+      "title": [
+        "WHO WAS",
+        "TESTED?"
+      ],
+      "graphic": "sample",
+      "source": "schoenfeld2016",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4367575",
+          "source_start": 0,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "chapter": "THE TRAINING PLAN",
+      "title": [
+        "EIGHT WEEKS."
+      ],
+      "graphic": "schedule",
+      "source": "schoenfeld2016",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4746007",
+          "source_start": 0,
+          "speed": 1
+        },
+        {
+          "shot": "pexels-4367575",
+          "source_start": 4,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "chapter": "ONE VARIABLE",
+      "title": [
+        "THE BREAK",
+        "BETWEEN SETS."
+      ],
+      "graphic": "timers",
+      "source": "schoenfeld2016",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4367575",
+          "source_start": 2,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "chapter": "STRENGTH RESULTS",
+      "title": [
+        "BENCH PRESS.",
+        "AND SQUAT."
+      ],
+      "graphic": null,
+      "source": "schoenfeld2016",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4921642",
+          "source_start": 4,
+          "speed": 1
+        },
+        {
+          "shot": "pexels-4921641",
+          "source_start": 1,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "chapter": "MUSCLE MEASUREMENTS",
+      "title": [
+        "ONE SITE.",
+        "MORE THICKNESS."
+      ],
+      "graphic": "thigh",
+      "source": "schoenfeld2016",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4746007",
+          "source_start": 0.5,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "chapter": "WHAT IT DOES NOT SAY",
+      "title": [
+        "NOT EVERY",
+        "MUSCLE."
+      ],
+      "graphic": null,
+      "source": "schoenfeld2016",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4367575",
+          "source_start": 6,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "chapter": "KEEP THE LIMITS",
+      "title": [
+        "A SMALL",
+        "EXPERIMENT."
+      ],
+      "graphic": "limits",
+      "source": "schoenfeld2016",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4746007",
+          "source_start": 0,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "chapter": "THE WIDER EVIDENCE",
+      "title": [
+        "ZOOM OUT."
+      ],
+      "graphic": "review",
+      "source": "singer2024",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4367575",
+          "source_start": 3,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "chapter": "THE BIGGER PICTURE",
+      "title": [
+        "A SMALL",
+        "POSSIBLE BENEFIT."
+      ],
+      "graphic": "uncertainty",
+      "source": "singer2024",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4921642",
+          "source_start": 2,
+          "speed": 1
+        },
+        {
+          "shot": "pexels-4746007",
+          "source_start": 1,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "chapter": "NOT A MAGIC NUMBER",
+      "title": [
+        "NO PERFECT",
+        "REST TIMER."
+      ],
+      "graphic": "no_magic",
+      "source": "singer2024",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4367575",
+          "source_start": 1,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "chapter": "YOUR NEXT SET",
+      "title": [
+        "RECOVERED",
+        "ENOUGH?"
+      ],
+      "graphic": null,
+      "source": "singer2024",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-7672123",
+          "source_start": 21,
+          "speed": 1
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "chapter": "EVIDENCE + DISCIPLINE",
+      "title": [
+        "MAKE THE",
+        "NEXT SET COUNT."
+      ],
+      "graphic": null,
+      "source": "singer2024",
+      "accent_line": 0,
+      "shots": [
+        {
+          "shot": "pexels-4921641",
+          "source_start": 3,
+          "speed": 1
+        },
+        {
+          "shot": "pexels-7672123",
+          "source_start": 31,
+          "speed": 1
+        }
+      ]
+    }
+  ]
+}

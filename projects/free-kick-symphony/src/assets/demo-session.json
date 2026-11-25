@@ -1,0 +1,270 @@
+{
+  "version": 2,
+  "takes": [
+    {
+      "id": 1,
+      "name": "Demo 1 · muted melody",
+      "config": {
+        "distance": 24,
+        "power": 35,
+        "curl": -0.6,
+        "aimX": 0,
+        "aimZ": 1.25,
+        "decay": 0.7,
+        "brightness": 0.29,
+        "pluck": 0.13,
+        "doppler": 3,
+        "space": 0.04,
+        "transpose": -12,
+        "seed": 15322,
+        "phraseScale": 1,
+        "loft": 0.5,
+        "timing": "tempo",
+        "bpm": 100,
+        "bars": 2,
+        "pitchMode": "stable",
+        "expression": true,
+        "root": 9,
+        "scale": "minor",
+        "source": "Demo phrase prepared with Codex assistance",
+        "renderer": "n5-2",
+        "notes": [
+          [
+            0,
+            57,
+            0.75
+          ],
+          [
+            2,
+            60,
+            0.75
+          ],
+          [
+            4,
+            64,
+            0.75
+          ],
+          [
+            6,
+            67,
+            0.75
+          ]
+        ],
+        "beats": 8,
+        "title": "Demo 1 · muted melody",
+        "slug": "demo-muted",
+        "automation": []
+      }
+    },
+    {
+      "id": 2,
+      "name": "Demo 2 · ringing chords",
+      "config": {
+        "distance": 24,
+        "power": 80,
+        "curl": 0.6,
+        "aimX": 0,
+        "aimZ": 1.25,
+        "decay": 3.8,
+        "brightness": 0.2,
+        "pluck": 0.23,
+        "doppler": 3,
+        "space": 0.25,
+        "transpose": 0,
+        "seed": 15322,
+        "phraseScale": 1,
+        "loft": 3.8,
+        "timing": "tempo",
+        "bpm": 100,
+        "bars": 4,
+        "pitchMode": "stable",
+        "expression": true,
+        "root": 9,
+        "scale": "minor",
+        "source": "Demo phrase prepared with Codex assistance",
+        "renderer": "n5-2",
+        "notes": [
+          [
+            0,
+            57,
+            0.75
+          ],
+          [
+            0,
+            60,
+            0.75
+          ],
+          [
+            0,
+            64,
+            0.75
+          ],
+          [
+            2,
+            53,
+            0.75
+          ],
+          [
+            2,
+            57,
+            0.75
+          ],
+          [
+            2,
+            60,
+            0.75
+          ],
+          [
+            4,
+            55,
+            0.75
+          ],
+          [
+            4,
+            59,
+            0.75
+          ],
+          [
+            4,
+            62,
+            0.75
+          ],
+          [
+            6,
+            52,
+            0.75
+          ],
+          [
+            6,
+            55,
+            0.75
+          ],
+          [
+            6,
+            59,
+            0.75
+          ]
+        ],
+        "beats": 8,
+        "title": "Demo 2 · ringing chords",
+        "slug": "demo-chords",
+        "automation": []
+      }
+    },
+    {
+      "id": 3,
+      "name": "Demo 3 · moving reference",
+      "config": {
+        "distance": 36,
+        "power": 75,
+        "curl": -0.65,
+        "aimX": 0,
+        "aimZ": 1.25,
+        "decay": 5.7,
+        "brightness": 0.87,
+        "pluck": 0.39,
+        "doppler": 6,
+        "space": 0.59,
+        "transpose": 0,
+        "seed": 15322,
+        "phraseScale": 2.0320204588457904,
+        "loft": 4,
+        "timing": "tempo",
+        "bpm": 100,
+        "bars": 4,
+        "pitchMode": "moving",
+        "expression": true,
+        "root": 9,
+        "scale": "minor",
+        "source": "https://music.apple.com/us/album/solar-eclipse/6818059268?i=6818059593&uo=4",
+        "renderer": "n5-2",
+        "notes": [
+          [
+            0,
+            70,
+            0.8
+          ],
+          [
+            0.09909852498516426,
+            66,
+            0.62
+          ],
+          [
+            0.20720685330135621,
+            61,
+            0.62
+          ],
+          [
+            1.576576684059096,
+            58,
+            0.8
+          ],
+          [
+            1.6756752090442575,
+            61,
+            0.62
+          ],
+          [
+            1.9549550571944236,
+            58,
+            0.62
+          ],
+          [
+            2.468468064753647,
+            61,
+            0.8
+          ],
+          [
+            2.603603475148887,
+            65,
+            0.62
+          ],
+          [
+            3.423423412937325,
+            60,
+            0.62
+          ],
+          [
+            3.5675678506922512,
+            65,
+            0.8
+          ],
+          [
+            3.936937196467895,
+            60,
+            0.62
+          ],
+          [
+            4.126125995049887,
+            65,
+            0.62
+          ],
+          [
+            4.459459231386799,
+            60,
+            0.8
+          ],
+          [
+            5.6576575423105675,
+            68,
+            0.62
+          ],
+          [
+            5.954955445180098,
+            60,
+            0.62
+          ],
+          [
+            6.126126189042723,
+            66,
+            0.8
+          ]
+        ],
+        "beats": 8,
+        "title": "Demo 3 · moving reference",
+        "slug": "demo-moving",
+        "automation": []
+      }
+    }
+  ]
+}

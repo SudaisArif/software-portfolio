@@ -1,0 +1,69 @@
+{
+  "title": "The next rep",
+  "sources": [
+    {
+      "title": "Combining motivational and volitional interventions to promote exercise participation",
+      "authors": "Milne, Orbell & Sheeran",
+      "year": 2002,
+      "url": "https://doi.org/10.1348/135910702169420",
+      "scope": "A short-term experiment found benefits of combined motivation and implementation planning. No numerical claim is made in this film."
+    },
+    {
+      "title": "The Limits of Simple Implementation Intentions: Evidence from a Field Experiment on Making Plans to Exercise",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/",
+      "scope": "Counterevidence: simple plans did not increase gym attendance in this field experiment. The film frames planning as a practical experiment, not a guarantee."
+    }
+  ],
+  "segments": [
+    {
+      "text": "Tomorrow, I'll train.",
+      "title": "THE NEXT\nREP",
+      "chapter": "01 / THE PROMISE"
+    },
+    {
+      "text": "A promise can be clear. And the next step can still be missing.",
+      "title": "STARTS\nBEFORE\nTHE GYM.",
+      "chapter": "01 / THE PROMISE"
+    },
+    {
+      "text": "Give it a place.",
+      "title": "GIVE IT\nA PLACE.",
+      "chapter": "02 / THE CUE"
+    },
+    {
+      "text": "At six, after class, I'll walk through the gym doors.",
+      "title": "18:00\nAFTER CLASS.",
+      "chapter": "02 / THE CUE"
+    },
+    {
+      "text": "Then give it a first move.",
+      "title": "ONE\nFIRST MOVE.",
+      "chapter": "03 / THE ACTION"
+    },
+    {
+      "text": "Bag down. Phone away. Warm-up set.",
+      "title": "BAG DOWN.\nPHONE AWAY.\nWARM-UP SET.",
+      "chapter": "03 / THE ACTION"
+    },
+    {
+      "text": "A specific plan won't lift the weight for you.",
+      "title": "THE WORK\nIS STILL\nYOURS.",
+      "chapter": "04 / THE LIMIT"
+    },
+    {
+      "text": "It's one decision to try when the day gets loud.",
+      "title": "LESS TO\nFIGURE OUT.",
+      "chapter": "04 / THE LIMIT"
+    },
+    {
+      "text": "Choose the cue. Name the next action.",
+      "title": "CHOOSE\nTHE CUE.",
+      "chapter": "05 / THE NEXT REP"
+    },
+    {
+      "text": "Then make that action real.",
+      "title": "MAKE\nIT REAL.",
+      "chapter": "05 / THE NEXT REP"
+    }
+  ]
+}

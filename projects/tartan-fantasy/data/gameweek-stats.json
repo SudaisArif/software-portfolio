@@ -1,0 +1,14 @@
+{
+  "5": {
+    "kai-yamamoto": {
+      "penaltiesSaved": 1
+    },
+    "kieran-raker": {
+      "manualOverrides": {
+        "minutes": 0,
+        "started": false,
+        "cleanSheet": false
+      }
+    }
+  }
+}

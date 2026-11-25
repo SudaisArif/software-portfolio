@@ -1,0 +1,18 @@
+{
+  "name": "tartan-fantasy",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build_site.mjs",
+    "check": "node scripts/check_worker.mjs && node scripts/check_bank.mjs",
+    "check:auth": "node scripts/check_auth.mjs && node scripts/check_auth_browser.mjs",
+    "check:bank-api": "node scripts/check_worker_bank.mjs",
+    "dev:cloudflare": "npm run build && wrangler dev --local --var ALLOW_LOCKED_WRITES:1",
+    "deploy": "npm run build && wrangler deploy",
+    "db:local": "wrangler d1 migrations apply tartan-fantasy-db --local",
+    "db:remote": "wrangler d1 migrations apply tartan-fantasy-db --remote"
+  },
+  "devDependencies": {
+    "wrangler": "^4.35.0"
+  }
+}

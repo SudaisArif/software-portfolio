@@ -1,0 +1,50 @@
+{
+  "status": "human_voice_preferred_audition_pending",
+  "personality": [
+    "calm",
+    "perceptive",
+    "confident",
+    "restrained"
+  ],
+  "target_words_per_minute": 135,
+  "duration_seconds": [
+    20,
+    90
+  ],
+  "ban_phrases": [
+    "no excuses",
+    "beast mode",
+    "pain is weakness",
+    "unlock your potential",
+    "winners never quit",
+    "rise and grind",
+    "you are unstoppable",
+    "destroy your limits"
+  ],
+  "principles": [
+    "One useful observation per film",
+    "Concrete details before abstractions",
+    "Do not pretend fatigue or pain is moral failure",
+    "No fabricated quotes, research, athletes or outcomes",
+    "Motivation should leave room for recovery",
+    "Earn curiosity with a specific contrast; answer the hook inside the video",
+    "State study population and material limitations in the video",
+    "Preserve a source speaker's meaning, qualifications and natural voice",
+    "Prioritize real movement and shot variety over repeating stock footage"
+  ],
+  "structures": [
+    "observation \u2192 friction \u2192 specific action",
+    "common assumption \u2192 evidence \u2192 practical reframing",
+    "documented moment \u2192 decision \u2192 reflective close"
+  ],
+  "brand": "REP SIGNAL",
+  "updated_at": "2026-11-15",
+  "default_narration": "human_recording_or_licensed_source_audio",
+  "system_voice": "archived_preview_only_explicit_opt_in",
+  "synthetic_voice": "optional_only_after_listening_review_and_license_check",
+  "content_lanes": [
+    "study_breakdown",
+    "licensed_clip_with_analysis",
+    "original_training_field_note"
+  ]
+}

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#edeae1">
+  <meta name="description" content="A playable free kick. A physical string instrument. Five reference-derived phrases, shaped by flight.">
+  <title>N5 — Free Kick Symphony</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80'%3E%3Crect width='80' height='80' rx='40' fill='%237c292c'/%3E%3Ctext x='40' y='53' text-anchor='middle' font-family='Georgia' font-size='38' fill='%23f4efe3'%3EN5%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="shell">
+  <header class="masthead">
+    <a class="brand" href="./" aria-label="N5 home"><span class="crest">N5<span>♪</span></span><span>NORTH LONDON<br><b>SOUND CLUB</b></span></a>
+    <div class="masthead-note">A study in motion &amp; resonance</div>
+    <button class="text-button" id="about-open">Inside the instrument <span>↗</span></button>
+  </header>
+  <main>
+    <section class="intro">
+      <div><p class="eyebrow">NO. 09 &nbsp; / &nbsp; WRITE · PERFORM · KEEP</p><h1>Free Kick <em>Symphony.</em></h1></div>
+      <p class="intro-copy">Write a melody. Give it a little curl.<br>Keep the shot. Make it part of your song.</p>
+    </section>
+    <section class="demo-shelf" aria-label="Ready-to-play examples">
+      <div class="demo-intro"><span class="eyebrow">THREE WAYS TO PLAY</span><p id="demo-status" role="status">Loading the prepared examples…</p></div>
+      <div id="demo-examples" class="demo-examples"></div>
+    </section>
+    <div class="instrument">
+      <section class="field-panel" aria-label="Free kick performance">
+        <div class="field-top"><span><i class="live-dot"></i> <span id="field-status">READY WHEN YOU ARE</span></span><div class="view-switch" role="group" aria-label="Camera angle"><button id="view-kick" class="active" aria-pressed="true">Behind the player</button><button id="view-tactical" aria-pressed="false">Tactical</button></div><span id="shot-count">READY</span></div>
+        <div class="canvas-wrap"><div class="height-meter">BALL HEIGHT <b id="height-readout">0.0 m</b></div><div class="match-label">N5 TRAINING GROUND<span>UNDER THE LIGHTS</span></div><canvas id="pitch" tabindex="0" aria-label="Free kick pitch. Click the goal to aim. Use arrow keys to adjust the target, then Space to shoot."></canvas><div class="field-hint" id="field-hint">Click the goal to aim <span>↗</span></div><div class="goal-callout" id="goal-callout"></div></div>
+        <div class="field-bottom"><span><span class="legend-dot"></span> BALL &amp; RESONANCE</span><span><span class="legend-line"></span> NOTE GATES</span><label class="gate-toggle"><input type="checkbox" id="show-gates" checked> Note guides</label><button id="reset-aim" class="field-reset">Reset aim ↺</button></div>
+        <div class="score-strip"><div class="score-label"><span>THE PHRASE</span><span id="phrase-info">—</span></div><div id="score" class="score" aria-label="Phrase notes"></div></div>
+      </section>
+      <aside class="control-panel">
+        <div class="selection"><label for="song">01 <span>SELECT A PHRASE</span></label><div class="select-wrap"><select id="song" aria-label="Song reference"></select><span>⌄</span></div><p id="song-artist"></p><span class="study-label" id="source-label">Instrumental study · no vocals</span><button id="write-melody" class="write-link">Write my own melody ↗</button></div>
+        <div class="tabs" role="tablist" aria-label="Instrument controls"><button id="tab-flight" class="active" role="tab" aria-selected="true" aria-controls="flight-controls">The shot</button><button id="tab-sound" role="tab" aria-selected="false" aria-controls="sound-controls">The sound</button></div>
+        <div id="flight-controls" class="controls" role="tabpanel" aria-labelledby="tab-flight">
+          <label class="slider phrase-length"><span>Notes <output id="note-count-out">16</output></span><input id="note-count" type="range" min="4" max="64" step="1" value="16" aria-describedby="note-count-help"><small><span id="note-count-help">Longer excerpt · more flight time</span><span>Available notes</span></small></label>
+          <label class="slider"><span>Distance <output id="distance-out">24 m</output></span><input id="distance" data-control="distance" type="range" min="18" max="36" step="1" value="24"><small>Near the box<span>Long range</span></small></label>
+          <label class="slider"><span>Power <output id="power-out">66%</output></span><input id="power" data-control="power" type="range" min="20" max="100" step="1" value="66"><small>Softer attack<span>Stronger &amp; brighter</span></small></label>
+          <label class="slider"><span>Curl <output id="curl-out">+0.22</output></span><input id="curl" data-control="curl" type="range" min="-1" max="1" step="0.01" value="0.22"><small>Left in stereo<span>Right in stereo</span></small></label>
+          <label class="slider"><span>Loft <output id="loft-out">2.4 m</output></span><input id="loft" data-control="loft" type="range" min="0.4" max="5" step="0.1" value="2.4"><small>Low &amp; intimate<span>Lift &amp; resonance</span></small></label>
+          <label class="slider"><span>Doppler <output id="doppler-out">3×</output></span><input id="doppler" data-control="doppler" type="range" min="0" max="8" step="0.1" value="3"><small>Off<span>Expressive pitch bend</span></small></label>
+          <p class="control-note">Power shapes the attack. Curl moves the sound.<br>Loft opens its brightness and ambience.</p>
+        </div>
+        <div id="sound-controls" class="controls" role="tabpanel" aria-labelledby="tab-sound" hidden>
+          <label class="slider"><span>Decay <output id="decay-out">2.8 s</output></span><input id="decay" data-control="decay" type="range" min="0.3" max="6" step="0.1" value="2.8"><small>Muted<span>Ringing</span></small></label>
+          <label class="slider"><span>Brightness <output id="brightness-out">65%</output></span><input id="brightness" data-control="brightness" type="range" min="0.05" max="0.98" step="0.01" value="0.65"><small>Felt<span>Steel</span></small></label>
+          <label class="slider"><span>Pluck position <output id="pluck-out">23%</output></span><input id="pluck" data-control="pluck" type="range" min="0.05" max="0.5" step="0.01" value="0.23"><small>At the bridge<span>At the centre</span></small></label>
+          <label class="slider"><span>Stadium <output id="space-out">18%</output></span><input id="space" data-control="space" type="range" min="0" max="0.65" step="0.01" value="0.18"><small>Dry<span>Open air echoes</span></small></label>
+          <label class="transpose">Register <select id="transpose" data-control="transpose"><option value="-12">One octave down</option><option value="0" selected>Written register</option><option value="12">One octave up</option></select></label>
+        </div>
+        <div class="playback"><button id="shoot" class="shoot"><span>Take the shot</span><span>↗</span></button><div class="secondary-actions"><button id="stop" disabled>Stop</button><span>SPACE TO PLAY</span><button id="replay" disabled>Replay ↺</button></div></div>
+        <div id="audio-status" role="status" class="audio-status">Sound starts with your first shot.</div>
+      </aside>
+    </div>
+    <section class="musical-clock" aria-label="Musical timing and expression">
+      <div><span class="eyebrow">KEEP IT IN TIME</span><p id="clock-info">Every shot, two bars.</p></div>
+      <label>Timing<select id="timing"><option value="tempo">Composition · bars</option><option value="flight">Free flight · seconds</option></select></label>
+      <label>Tempo <span class="unit">BPM</span><input id="bpm" type="number" min="60" max="180" value="140"></label>
+      <label>Phrase<select id="bars"><option value="1">1 bar</option><option value="2" selected>2 bars</option><option value="4">4 bars</option></select></label>
+      <label>Pitch<select id="pitch-mode"><option value="stable">Stable · melody</option><option value="moving">Moving · Doppler</option></select></label>
+      <p id="pitch-help">Notes stay in tune; the shot still shapes their tone and stereo motion.</p>
+    </section>
+    <section class="audition" aria-label="Latest audition">
+      <div><span class="eyebrow">YOUR LATEST SHOT</span><p id="audition-status" role="status">Try a shot. Keep it when it feels right.</p></div>
+      <label class="clip-name-label">Name this shot<input id="clip-name" placeholder="e.g. Main hook · soft" maxlength="120"></label>
+      <button id="keep-shot" class="keep-button" disabled>Keep this shot +</button>
+      <button id="discard-shot" class="text-button" disabled>Discard</button>
+    </section>
+    <section class="composer" id="composer" aria-label="Write your melody">
+      <div class="section-heading"><div><span class="section-index">02</span><h2>Your notes. Your shot.</h2></div><button id="new-melody" class="text-button">Start a blank melody +</button></div>
+      <p class="section-description">Click a square to add or remove a note. Stack notes for a chord. The shot performs your phrase with the expression you choose.</p>
+      <div class="composer-settings">
+        <label>Melody name<input id="melody-name" placeholder="My first melody" maxlength="100"></label>
+        <label>Key<select id="key-root"><option value="0">C</option><option value="1">C♯</option><option value="2">D</option><option value="3">E♭</option><option value="4">E</option><option value="5">F</option><option value="6">F♯</option><option value="7">G</option><option value="8">A♭</option><option value="9" selected>A</option><option value="10">B♭</option><option value="11">B</option></select></label>
+        <label>Scale guide<select id="scale"><option value="minor">Minor</option><option value="major">Major</option><option value="chromatic">All notes</option></select></label>
+        <label>Grid<select id="grid-step"><option value="1">Quarter notes</option><option value="0.5" selected>Eighth notes</option><option value="0.25">Sixteenth notes</option></select></label>
+        <label>Keyboard<select id="grid-octave"><option value="2">C2–B3</option><option value="3" selected>C3–B4</option><option value="4">C4–B5</option><option value="5">C5–B6</option></select></label>
+      </div>
+      <div class="roll-scroll"><div id="piano-roll" class="piano-roll" role="group" aria-label="Melody grid"></div><div id="roll-playhead" class="roll-playhead" hidden></div></div>
+      <div class="roll-caption"><span><i></i> Your notes <b>·</b> Lighter rows are in scale <b>·</b> Click a piano key to hear its pitch <b>·</b> Notes ring according to Decay</span><span id="grid-info"></span></div>
+      <div class="write-notes"><label for="written-notes">Or write note names <small>Use - for a rest, + for a chord. Each space advances one grid step.</small></label><div><input id="written-notes" placeholder="A3 C4 E4 - G4 E4 D4 C4" spellcheck="false"><button id="apply-written" class="outline-button">Use these notes ↗</button></div><p id="write-status" role="status">Scale is a visual guide. Your pitches are never silently changed.</p></div>
+    </section>
+    <section class="bench" aria-label="Performance tools">
+      <div class="bench-label"><span class="section-index">03</span><div><h2>Find your sound.</h2><p>Three ways to hear the same instrument.</p></div></div>
+      <div class="sound-choices"><button class="sound-choice" data-scene="muted"><span class="swatch muted"></span><span><b>Close control</b><small>Dry · low · percussive</small></span></button><button class="sound-choice active" data-scene="singing"><span class="swatch singing"></span><span><b>After the whistle</b><small>Warm · melodic · open</small></span></button><button class="sound-choice" data-scene="space"><span class="swatch space"></span><span><b>Floodlights</b><small>Long tails · wide motion</small></span></button></div>
+    </section>
+    <section class="takes-section">
+      <div class="section-heading"><div><span class="section-index">04</span><h2>Shots worth keeping.</h2></div><div><button id="save-session" class="text-button" disabled>Save session ↓</button><button id="load-session" class="text-button">Open session ↑</button><input id="session-file" type="file" accept=".json" hidden></div></div>
+      <div class="takes-empty" id="takes-empty"><span>—</span><p>Only the shots you keep appear here.<br><small>Save the WAV for your song and the shot file to reproduce every setting.</small></p></div>
+      <p class="section-description">Saved locally in this browser. Download a shot or session file to keep a portable backup. WAVs include the release tail; place the next clip at the next bar.</p><div id="takes" class="takes"></div>
+    </section>
+    <details class="phrase-editor"><summary>Edit the phrase <span>Notes, sources &amp; MIDI import</span></summary><div class="editor-content"><p id="source-note"></p><p class="editor-help">These are automatically extracted pitch studies, not verified hook transcriptions. Correct a note, write your own phrase, or import a MIDI melody. No source recordings are included.</p><label for="note-editor">One note per line: beat, MIDI pitch, velocity (0–1)</label><textarea id="note-editor" rows="6" spellcheck="false"></textarea><div class="editor-buttons"><button id="apply-notes">Apply phrase</button><button id="add-note">Add note +</button><button id="restore-notes">Restore study</button><button id="import-midi">Import MIDI</button><input id="midi-file" type="file" accept=".mid,.midi" hidden><span id="editor-status" role="status"></span></div></div></details>
+  </main>
+  <section class="demo-tools"><div><h2>From a shot to a piece.</h2><p>A 28-second sketch: strings, FM bass &amp; percussion.</p><audio id="sketch-player" controls preload="none" src="assets/composition-sketch.wav"></audio></div><div><button id="record-demo" class="outline-button">Record your demo</button><p id="record-status" role="status">Share a screen and narrate with your microphone.<br>Recording is local. Nothing is uploaded.</p></div></section>
+  <footer><span>N5 SOUND CLUB <span class="footer-slash">/</span> MADE OF MOTION</span><span>Physical strings · Moving delay · Stereo field</span><span>15–322 / 2026</span></footer>
+</div>
+<dialog id="about"><div class="dialog-head"><span class="eyebrow">INSIDE THE INSTRUMENT</span><button id="about-close" aria-label="Close instrument explanation">×</button></div><h2>The sound is<br><em>the substance.</em></h2><p>Every note starts as a tiny burst of noise. It travels around a tuned delay loop, losing energy and high frequencies on each pass. That is a physical model of a plucked string.</p><div class="signal-chain"><span>Pluck</span><b>→</b><span>String loop</span><b>→</b><span>Moving delay</span><b>→</b><span>Stereo + room</span></div><div class="about-grid"><div><h3>01 / The string</h3><p>Fractional tuning, frequency-dependent loss, excitation-position notches, and independent overlapping voices. Power changes excitation and brightness; loft adds a smooth brightness contour.</p><code>engine/dsp.mjs → StringVoice</code></div><div><h3>02 / The flight</h3><p>Propagation time changes as the sounding ball moves past a fixed listener. A fractional delay reads the waveform at a changing speed, producing Doppler pitch motion. Stable pitch bypasses the changing delay while retaining tone, distance and stereo expression.</p><code>engine/dsp.mjs → Engine.tick</code></div><div><h3>03 / The space</h3><p>Distance attenuation, a smoothed air-loss filter, equal-power stereo panning, and six damped feedback delays create the listening environment.</p><code>engine/dsp.mjs → Stadium</code></div><div><h3>04 / Your composition</h3><p>Keep a shot to save its notes, tempo, key guide, trajectory, synthesis settings, seed and live sound changes. WAV export re-renders that performance. JSON keeps the instructions; MIDI exports the underlying score.</p><code>tools/render.mjs · compose.py</code></div></div><details class="source-details"><summary>Read the actual DSP source</summary><pre id="dsp-source">Loading source…</pre></details><p class="about-foot">The football scene is deliberately simplified. Audio is calculated sample by sample; the flight is a musical, slowed quadratic trajectory.</p><button id="comparison" class="outline-button">Play Doppler comparison: off → on</button><p id="comparison-status" role="status"></p></dialog>
+<div id="toast" role="status"></div>
+<script type="module" src="app.js"></script>
+</body></html>

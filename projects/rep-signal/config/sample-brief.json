@@ -1,0 +1,27 @@
+{
+  "title": "The next rep",
+  "theme": "Make the first action specific",
+  "status": "local_sample_for_review_only",
+  "sources": [
+    {
+      "title": "Combining motivational and volitional interventions to promote exercise participation",
+      "authors": "Milne, Orbell & Sheeran",
+      "year": 2002,
+      "url": "https://doi.org/10.1348/135910702169420",
+      "scope": "A short-term experiment found benefits of combined motivation and implementation planning. No numerical claim is made in this film."
+    },
+    {
+      "title": "The Limits of Simple Implementation Intentions: Evidence from a Field Experiment on Making Plans to Exercise",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/",
+      "scope": "Counterevidence: simple plans did not increase gym attendance in this field experiment. The film frames planning as a practical experiment, not a guarantee."
+    }
+  ],
+  "source_urls": [
+    "https://doi.org/10.1348/135910702169420",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7872013/"
+  ],
+  "evidence_boundary": "Planning does not guarantee exercise adherence; this film suggests an experiment. Voice and visuals portray no real individual.",
+  "original_script": "Tomorrow, I'll train. A promise can be clear. And the next step can still be missing. Give it a place. At six, after class, I'll walk through the gym doors. Then give it a first move. Bag down. Phone away. Warm-up set. A specific plan won't lift the weight for you. It's one decision to try when the day gets loud. Choose the cue. Name the next action. Then make that action real.",
+  "duration_target_seconds": 30.732895833333334,
+  "release_approved": false
+}

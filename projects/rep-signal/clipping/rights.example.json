@@ -1,0 +1,14 @@
+{
+  "source_url":"https://example.org/replace-with-licensed-source",
+  "source_sha256":"REPLACE_WITH_SHA256_OF_ACTUAL_LOCAL_MEDIA",
+  "rights_status":"unknown",
+  "commercial_use_allowed":false,
+  "adaptation_allowed":false,
+  "source_audio_included":false,
+  "third_party_elements_reviewed":false,
+  "rights_holder":"",
+  "license_url":"",
+  "attribution":"",
+  "reviewed_by":"",
+  "owner_attestation":""
+}

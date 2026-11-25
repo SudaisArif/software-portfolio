@@ -1,0 +1,398 @@
+[
+  {
+    "gameweek": 1,
+    "date": "2026-09-01",
+    "time": "7:00 PM",
+    "deadline": "2026-09-01T18:00:00-04:00",
+    "opponent": "Grove City",
+    "home": false,
+    "location": "Don Lyle Field · Grove City, PA",
+    "conference": false,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/links/f5mcsw"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/phbvls"
+      }
+    ],
+    "ncaaGameId": "6619359",
+    "ncaaUrl": "https://www.ncaa.com/game/6619359"
+  },
+  {
+    "gameweek": 2,
+    "date": "2026-09-04",
+    "time": "7:30 PM",
+    "deadline": "2026-09-04T18:30:00-04:00",
+    "opponent": "Wis.-Platteville",
+    "home": true,
+    "location": "CMU Soccer Field · Pittsburgh, PA",
+    "conference": false,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/sports/msoc/2026-27/boxscores/20260904_f12u.xml"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/gdbfbq"
+      }
+    ],
+    "ncaaGameId": "6620187",
+    "ncaaUrl": "https://www.ncaa.com/game/6620187"
+  },
+  {
+    "gameweek": 3,
+    "date": "2026-09-06",
+    "time": "3:00 PM",
+    "deadline": "2026-09-06T14:00:00-04:00",
+    "opponent": "Otterbein",
+    "home": false,
+    "location": "Memorial Stadium · Westerville, OH",
+    "conference": false,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/links/249ebm"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/n44330"
+      }
+    ],
+    "ncaaGameId": "6619972",
+    "ncaaUrl": "https://www.ncaa.com/game/6619972"
+  },
+  {
+    "gameweek": 4,
+    "date": "2026-09-09",
+    "time": "5:00 PM",
+    "deadline": "2026-09-09T16:00:00-04:00",
+    "opponent": "Chatham",
+    "home": true,
+    "location": "CMU Soccer Field · Pittsburgh, PA",
+    "conference": false,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/sports/msoc/2026-27/boxscores/20260909_dbmd.xml"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/ghc0cx"
+      }
+    ],
+    "ncaaGameId": "6621026",
+    "ncaaUrl": "https://www.ncaa.com/game/6621026"
+  },
+  {
+    "gameweek": 5,
+    "date": "2026-09-12",
+    "time": "2:00 PM",
+    "deadline": "2026-09-12T13:00:00-04:00",
+    "opponent": "John Carroll",
+    "home": false,
+    "location": "Don Shula Stadium · University Heights, OH",
+    "conference": false,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/links/7012rx"
+      }
+    ],
+    "ncaaGameId": "6621756",
+    "ncaaUrl": "https://www.ncaa.com/game/6621756"
+  },
+  {
+    "gameweek": 6,
+    "date": "2026-09-18",
+    "time": "7:30 PM",
+    "deadline": "2026-09-18T18:30:00-04:00",
+    "opponent": "Penn St.-Harrisburg",
+    "home": true,
+    "location": "CMU Soccer Field · Pittsburgh, PA",
+    "conference": false,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/sports/msoc/2026-27/boxscores/20260918_nzop.xml"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/yy8xq3"
+      }
+    ],
+    "ncaaGameId": "6619452",
+    "ncaaUrl": "https://www.ncaa.com/game/6619452"
+  },
+  {
+    "gameweek": 7,
+    "date": "2026-09-20",
+    "time": "1:00 PM",
+    "deadline": "2026-09-20T12:00:00-04:00",
+    "opponent": "Ohio Northern",
+    "home": false,
+    "location": "Kerscher Stadium · Ada, OH",
+    "conference": false,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/sports/msoc/2026-27/boxscores/20260920_ga28.xml"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/o31abf"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/vich4g"
+      }
+    ],
+    "ncaaGameId": "6621715",
+    "ncaaUrl": "https://www.ncaa.com/game/6621715"
+  },
+  {
+    "gameweek": 8,
+    "date": "2026-09-23",
+    "time": "7:30 PM",
+    "deadline": "2026-09-23T18:30:00-04:00",
+    "opponent": "Mt. Aloysius",
+    "home": true,
+    "location": "CMU Soccer Field · Pittsburgh, PA",
+    "conference": false,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/sports/msoc/2026-27/boxscores/20260923_zzmh.xml"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/r0ilz2"
+      }
+    ],
+    "ncaaGameId": "6621757",
+    "ncaaUrl": "https://www.ncaa.com/game/6621757"
+  },
+  {
+    "gameweek": 9,
+    "date": "2026-09-26",
+    "time": "2:30 PM",
+    "deadline": "2026-09-26T13:30:00-04:00",
+    "opponent": "Denison",
+    "home": false,
+    "location": "Barclay-Thomsen Field · Granville, OH",
+    "conference": false,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/links/x556kr"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/v9k3zs"
+      }
+    ],
+    "ncaaGameId": "6621758",
+    "ncaaUrl": "https://www.ncaa.com/game/6621758"
+  },
+  {
+    "gameweek": 10,
+    "date": "2026-09-29",
+    "time": "7:30 PM",
+    "deadline": "2026-09-29T18:30:00-04:00",
+    "opponent": "Capital",
+    "home": true,
+    "location": "CMU Soccer Field · Pittsburgh, PA",
+    "conference": false,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/sports/msoc/2026-27/boxscores/20260929_obfd.xml"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/mqdes5"
+      }
+    ],
+    "ncaaGameId": "6619828",
+    "ncaaUrl": "https://www.ncaa.com/game/6619828"
+  },
+  {
+    "gameweek": 11,
+    "date": "2026-10-03",
+    "time": "11:00 AM",
+    "deadline": "2026-10-03T10:00:00-04:00",
+    "opponent": "Emory",
+    "home": false,
+    "location": "Woodruff PE Center · Atlanta, GA",
+    "conference": true,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/links/sjpqqv"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/bcw3ll"
+      }
+    ],
+    "ncaaGameId": "6621224",
+    "ncaaUrl": "https://www.ncaa.com/game/6621224"
+  },
+  {
+    "gameweek": 12,
+    "date": "2026-10-10",
+    "time": "12:00 PM",
+    "deadline": "2026-10-10T11:00:00-04:00",
+    "opponent": "UChicago",
+    "home": false,
+    "location": "Stagg Field · Chicago, IL",
+    "conference": true,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/links/c9b6oz"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/45qa8m"
+      }
+    ],
+    "ncaaGameId": "6619091",
+    "ncaaUrl": "https://www.ncaa.com/game/6619091"
+  },
+  {
+    "gameweek": 13,
+    "date": "2026-10-13",
+    "time": "4:00 PM",
+    "deadline": "2026-10-13T15:00:00-04:00",
+    "opponent": "Gettysburg",
+    "home": true,
+    "location": "CMU Soccer Field · Pittsburgh, PA",
+    "conference": false,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/sports/msoc/2026-27/boxscores/20261013_bwww.xml"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/dabqfg"
+      }
+    ],
+    "ncaaGameId": "6621888",
+    "ncaaUrl": "https://www.ncaa.com/game/6621888"
+  },
+  {
+    "gameweek": 14,
+    "date": "2026-10-17",
+    "time": "11:00 AM",
+    "deadline": "2026-10-17T10:00:00-04:00",
+    "opponent": "WashU",
+    "home": true,
+    "location": "CMU Soccer Field · Pittsburgh, PA",
+    "conference": true,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/sports/msoc/2026-27/boxscores/20261017_6na7.xml"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/jr6imp"
+      }
+    ],
+    "ncaaGameId": "6620091",
+    "ncaaUrl": "https://www.ncaa.com/game/6620091"
+  },
+  {
+    "gameweek": 15,
+    "date": "2026-10-23",
+    "time": "5:00 PM",
+    "deadline": "2026-10-23T16:00:00-04:00",
+    "opponent": "NYU",
+    "home": true,
+    "location": "CMU Soccer Field · Pittsburgh, PA",
+    "conference": true,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/sports/msoc/2026-27/boxscores/20261023_p9qz.xml"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/h8agev"
+      }
+    ],
+    "ncaaGameId": "6620415",
+    "ncaaUrl": "https://www.ncaa.com/game/6620415"
+  },
+  {
+    "gameweek": 16,
+    "date": "2026-10-25",
+    "time": "11:00 AM",
+    "deadline": "2026-10-25T10:00:00-04:00",
+    "opponent": "Brandeis",
+    "home": true,
+    "location": "CMU Soccer Field · Pittsburgh, PA",
+    "conference": true,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/sports/msoc/2026-27/boxscores/20261025_a999.xml"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/y0bndb"
+      }
+    ],
+    "ncaaGameId": "6620222",
+    "ncaaUrl": "https://www.ncaa.com/game/6620222"
+  },
+  {
+    "gameweek": 17,
+    "date": "2026-10-31",
+    "time": "1:00 PM",
+    "deadline": "2026-10-31T12:00:00-04:00",
+    "opponent": "Rochester (N.Y.)",
+    "home": false,
+    "location": "Edwin Fauver Stadium · Rochester, NY",
+    "conference": true,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/links/jmbtq5"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/ghivth"
+      }
+    ],
+    "ncaaGameId": "6620581",
+    "ncaaUrl": "https://www.ncaa.com/game/6620581"
+  },
+  {
+    "gameweek": 18,
+    "date": "2026-11-07",
+    "time": "1:00 PM",
+    "deadline": "2026-11-07T12:00:00-05:00",
+    "opponent": "Case Western Reserve",
+    "home": false,
+    "location": "DiSanto Field · Cleveland, OH",
+    "conference": true,
+    "coverage": [
+      {
+        "type": "livestats",
+        "url": "https://athletics.cmu.edu/links/d6769w"
+      },
+      {
+        "type": "video",
+        "url": "https://athletics.cmu.edu/links/v2l8sf"
+      }
+    ],
+    "ncaaGameId": "6620210",
+    "ncaaUrl": "https://www.ncaa.com/game/6620210"
+  }
+]

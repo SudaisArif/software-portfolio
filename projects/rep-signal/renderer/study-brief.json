@@ -1,0 +1,219 @@
+{
+  "title": "Rest more. Gain more?",
+  "brand": "REP SIGNAL",
+  "format": "real_footage_study_visual_essay",
+  "duration_seconds": 38,
+  "narration_mode": "none_intentional_visual_essay",
+  "factual_caveat": "The 2016 randomized trial studied only 21 young resistance-trained men over eight weeks. Greater gains occurred in squat/bench strength and anterior-thigh thickness, not every muscle measured. The 2024 synthesis found a small possible hypertrophy benefit to longer rest with substantial uncertainty. Neither establishes a universal three-minute rule.",
+  "sources": [
+    {
+      "id": "schoenfeld2016",
+      "title": "Longer Interset Rest Periods Enhance Muscle Strength and Hypertrophy in Resistance-Trained Men",
+      "authors": "Schoenfeld et al.",
+      "year": 2016,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/",
+      "doi": "10.1519/JSC.0000000000001272",
+      "design": "Randomized trial; 21 young resistance-trained men; eight weeks; one versus three minutes between sets; three full-body sessions per week.",
+      "claim_scope": "The three-minute group improved squat and bench 1RM more and gained more anterior-thigh muscle thickness. Do not generalize this to every muscle or demographic.",
+      "display_citation": "Schoenfeld et al. \u00b7 2016"
+    },
+    {
+      "id": "singer2024",
+      "title": "Give it a rest: a systematic review with Bayesian meta-analysis on the effect of inter-set rest interval duration on muscle hypertrophy",
+      "authors": "Singer et al.",
+      "year": 2024,
+      "url": "https://doi.org/10.3389/fspor.2024.1429789",
+      "doi": "10.3389/fspor.2024.1429789",
+      "design": "Systematic review and Bayesian meta-analysis; nine studies.",
+      "claim_scope": "A small possible hypertrophy advantage with rest intervals above 60 seconds, with wide uncertainty. This is not an exact three-minute prescription.",
+      "display_citation": "Singer et al. \u00b7 2024 / 9-study review"
+    }
+  ],
+  "beats": [
+    {
+      "start": 0,
+      "end": 2.5,
+      "shot": "pexels-5319421",
+      "source_start": 0.5,
+      "speed": 1,
+      "chapter": "THE REST QUESTION",
+      "title": [
+        "REST MORE."
+      ],
+      "accent_line": 0,
+      "caption": "Could a longer break help your next set?",
+      "source": "schoenfeld2016",
+      "layout": "hook"
+    },
+    {
+      "start": 2.5,
+      "end": 5,
+      "shot": "pexels-4746007",
+      "source_start": 0.5,
+      "speed": 1,
+      "chapter": "THE REST QUESTION",
+      "title": [
+        "GAIN MORE?"
+      ],
+      "accent_line": 0,
+      "caption": "One small trial put it to the test.",
+      "source": "schoenfeld2016",
+      "layout": "hook"
+    },
+    {
+      "start": 5,
+      "end": 9,
+      "shot": "pexels-4921641",
+      "source_start": 0,
+      "speed": 1,
+      "chapter": "THE EXPERIMENT",
+      "title": [
+        "21 TRAINED",
+        "MEN."
+      ],
+      "accent_line": 0,
+      "caption": "Randomized. Eight weeks.\nThree full-body workouts per week.",
+      "source": "schoenfeld2016",
+      "layout": "design",
+      "design_badges": [
+        "RANDOMIZED",
+        "8 WEEKS"
+      ]
+    },
+    {
+      "start": 9,
+      "end": 12.5,
+      "shot": "pexels-4921642",
+      "source_start": 0,
+      "speed": 1,
+      "chapter": "BETWEEN SETS",
+      "title": [
+        "1 vs 3",
+        "MINUTES."
+      ],
+      "accent_line": 0,
+      "caption": "Same planned training.\nDifferent rest intervals.",
+      "source": "schoenfeld2016",
+      "layout": "comparison",
+      "comparison_badges": [
+        "01:00 REST",
+        "03:00 REST"
+      ]
+    },
+    {
+      "start": 12.5,
+      "end": 15.5,
+      "shot": "pexels-4921642",
+      "source_start": 5,
+      "speed": 1,
+      "chapter": "WHAT HAPPENED",
+      "title": [
+        "3-MIN GROUP:",
+        "MORE STRENGTH."
+      ],
+      "accent_line": 1,
+      "caption": "Bigger improvements in bench press\u2026",
+      "source": "schoenfeld2016",
+      "layout": "result"
+    },
+    {
+      "start": 15.5,
+      "end": 18,
+      "shot": "pexels-4921641",
+      "source_start": 4.5,
+      "speed": 1,
+      "chapter": "WHAT HAPPENED",
+      "title": [
+        "AND SQUAT",
+        "STRENGTH."
+      ],
+      "accent_line": 0,
+      "caption": "\u2026and squat strength.",
+      "source": "schoenfeld2016",
+      "layout": "result"
+    },
+    {
+      "start": 18,
+      "end": 22,
+      "shot": "pexels-4746007",
+      "source_start": 1,
+      "speed": 1,
+      "chapter": "MUSCLE MEASUREMENTS",
+      "title": [
+        "MORE GROWTH",
+        "AT THE THIGH."
+      ],
+      "accent_line": 0,
+      "caption": "More front-of-thigh thickness.\nNot a clear win for every muscle.",
+      "source": "schoenfeld2016",
+      "layout": "result"
+    },
+    {
+      "start": 22,
+      "end": 26,
+      "shot": "pexels-5319421",
+      "source_start": 6,
+      "speed": 1,
+      "chapter": "KEEP THE LIMITS",
+      "title": [
+        "21 MEN.",
+        "8 WEEKS."
+      ],
+      "accent_line": 0,
+      "caption": "A small trial.\nThree minutes is not a magic rule.",
+      "source": "schoenfeld2016",
+      "layout": "caveat"
+    },
+    {
+      "start": 26,
+      "end": 31,
+      "shot": "pexels-4921642",
+      "source_start": 7,
+      "speed": 1,
+      "chapter": "THE WIDER EVIDENCE",
+      "title": [
+        "9 STUDIES.",
+        "SMALL SIGNAL."
+      ],
+      "accent_line": 1,
+      "caption": "A 2024 review: small possible growth\nbenefit with longer rests.\nThe estimate remains uncertain.",
+      "source": "singer2024",
+      "layout": "review"
+    },
+    {
+      "start": 31,
+      "end": 34.5,
+      "shot": "pexels-5319421",
+      "source_start": 11,
+      "speed": 1,
+      "chapter": "YOUR NEXT SESSION",
+      "title": [
+        "READY FOR",
+        "THE NEXT SET?"
+      ],
+      "accent_line": 1,
+      "caption": "Use that question.\nKeep the evidence in proportion.",
+      "source": "singer2024",
+      "layout": "takeaway"
+    },
+    {
+      "start": 34.5,
+      "end": 38,
+      "shot": "pexels-4921641",
+      "source_start": 1.5,
+      "speed": 1,
+      "chapter": "EVIDENCE + DISCIPLINE",
+      "title": [
+        "MAKE THE",
+        "NEXT SET",
+        "COUNT."
+      ],
+      "accent_line": 2,
+      "caption": "REP SIGNAL\nUseful evidence. Better questions.",
+      "source": "singer2024",
+      "layout": "closing"
+    }
+  ],
+  "human_recording_script": "Your rest timer might be rushing your next set. In one eight-week study, twenty-one trained men rested either one minute or three. The three-minute group improved squat and bench strength more, and gained more thickness at the front of the thigh. That does not make three minutes a magic rule. A later review found only a small possible growth advantage from longer rests, with plenty of uncertainty. The useful test: are you recovered enough to make the next set count?",
+  "human_delivery_direction": "Speak like a knowledgeable training partner. Natural breaths, contractions and uneven sentence rhythm. Curious opening, plain-spoken explanation, quieter caveat. No broadcaster voice, false urgency or imitation of a named person. Record clean dry audio at 48kHz; then edit shots to the actual performance and align captions. This script is a recording brief, not present in the visual-essay audio."
+}

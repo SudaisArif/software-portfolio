@@ -1,0 +1,2381 @@
+[
+  {
+    "slug": "declan-rice",
+    "source_url": "https://music.apple.com/us/album/declan-rice-arsenal-version/1698497492?i=1698497493&uo=4",
+    "preview_start_s": 2.1362,
+    "preview_end_s": 8.4521,
+    "status": "automatic_dominant_pitch_study_unverified",
+    "method": "Stereo difference (L-R)/2 to reduce centered vocals; 4096-sample Hann FFT at 22050Hz, hop256; envelope-whitened harmonic salience (5 partials), Viterbi continuity, 9-frame median filter, short-run merging. No manually invented notes.",
+    "warning": "Mixed recording: pitches may follow voice, bass or harmonics, not the hook. No ear verification. Times are relative to Apple 30s preview, not full song. Do not describe as an exact cover.",
+    "title": "Declan Rice",
+    "artist": "ODUMODUBLVCK",
+    "beats": 8,
+    "notes": [
+      [
+        0.0,
+        72,
+        0.8
+      ],
+      [
+        0.2058,
+        64,
+        0.62
+      ],
+      [
+        1.3088,
+        79,
+        0.62
+      ],
+      [
+        1.5294,
+        67,
+        0.8
+      ],
+      [
+        1.8235,
+        59,
+        0.62
+      ],
+      [
+        3.6324,
+        64,
+        0.62
+      ],
+      [
+        4.4412,
+        57,
+        0.8
+      ],
+      [
+        6.7058,
+        64,
+        0.62
+      ],
+      [
+        7.5882,
+        74,
+        0.62
+      ]
+    ],
+    "phraseLibrary": {
+      "anchor": 5,
+      "referenceDuration": 6.315899999999999,
+      "events": [
+        {
+          "start": 0.09288,
+          "end": 0.429569,
+          "midi": 64,
+          "salience": 0.9937
+        },
+        {
+          "start": 0.429569,
+          "end": 1.021678,
+          "midi": 79,
+          "salience": 0.979
+        },
+        {
+          "start": 1.021678,
+          "end": 1.753107,
+          "midi": 57,
+          "salience": 0.9958
+        },
+        {
+          "start": 1.753107,
+          "end": 1.962086,
+          "midi": 72,
+          "salience": 0.9938
+        },
+        {
+          "start": 1.962086,
+          "end": 2.136236,
+          "midi": 57,
+          "salience": 0.9947
+        },
+        {
+          "start": 2.136236,
+          "end": 2.298776,
+          "midi": 72,
+          "salience": 0.9778
+        },
+        {
+          "start": 2.298776,
+          "end": 3.169524,
+          "midi": 64,
+          "salience": 0.9957
+        },
+        {
+          "start": 3.169524,
+          "end": 3.343673,
+          "midi": 79,
+          "salience": 0.9886
+        },
+        {
+          "start": 3.343673,
+          "end": 3.575873,
+          "midi": 67,
+          "salience": 0.9835
+        },
+        {
+          "start": 3.575873,
+          "end": 5.0039,
+          "midi": 59,
+          "salience": 0.9976
+        },
+        {
+          "start": 5.0039,
+          "end": 5.642449,
+          "midi": 64,
+          "salience": 0.9895
+        },
+        {
+          "start": 5.642449,
+          "end": 7.430385,
+          "midi": 57,
+          "salience": 0.984
+        },
+        {
+          "start": 7.430385,
+          "end": 8.126984,
+          "midi": 64,
+          "salience": 0.9981
+        },
+        {
+          "start": 8.126984,
+          "end": 8.452063,
+          "midi": 74,
+          "salience": 0.9817
+        },
+        {
+          "start": 8.452063,
+          "end": 8.649433,
+          "midi": 64,
+          "salience": 0.8438
+        },
+        {
+          "start": 8.649433,
+          "end": 10.08907,
+          "midi": 59,
+          "salience": 0.9949
+        },
+        {
+          "start": 10.08907,
+          "end": 10.576689,
+          "midi": 64,
+          "salience": 0.9971
+        },
+        {
+          "start": 10.576689,
+          "end": 11.238458,
+          "midi": 76,
+          "salience": 0.9986
+        },
+        {
+          "start": 11.238458,
+          "end": 12.503946,
+          "midi": 57,
+          "salience": 0.9989
+        },
+        {
+          "start": 12.503946,
+          "end": 14.094512,
+          "midi": 64,
+          "salience": 0.9719
+        },
+        {
+          "start": 14.094512,
+          "end": 14.976871,
+          "midi": 59,
+          "salience": 0.99
+        },
+        {
+          "start": 14.976871,
+          "end": 15.19746,
+          "midi": 69,
+          "salience": 0.8976
+        },
+        {
+          "start": 15.19746,
+          "end": 15.928889,
+          "midi": 66,
+          "salience": 0.9256
+        },
+        {
+          "start": 15.928889,
+          "end": 16.277188,
+          "midi": 74,
+          "salience": 0.9384
+        },
+        {
+          "start": 16.277188,
+          "end": 17.716825,
+          "midi": 57,
+          "salience": 0.9966
+        },
+        {
+          "start": 17.716825,
+          "end": 18.297324,
+          "midi": 64,
+          "salience": 0.9862
+        },
+        {
+          "start": 18.297324,
+          "end": 18.773333,
+          "midi": 74,
+          "salience": 0.9874
+        },
+        {
+          "start": 18.773333,
+          "end": 19.249342,
+          "midi": 59,
+          "salience": 0.9943
+        },
+        {
+          "start": 19.249342,
+          "end": 19.411882,
+          "midi": 64,
+          "salience": 0.9938
+        },
+        {
+          "start": 19.411882,
+          "end": 20.27102,
+          "midi": 59,
+          "salience": 0.9984
+        },
+        {
+          "start": 20.27102,
+          "end": 21.420408,
+          "midi": 76,
+          "salience": 0.9987
+        },
+        {
+          "start": 21.420408,
+          "end": 22.743946,
+          "midi": 57,
+          "salience": 0.9986
+        },
+        {
+          "start": 22.743946,
+          "end": 23.440544,
+          "midi": 64,
+          "salience": 0.9979
+        },
+        {
+          "start": 23.440544,
+          "end": 24.044263,
+          "midi": 74,
+          "salience": 0.9985
+        },
+        {
+          "start": 24.044263,
+          "end": 24.264853,
+          "midi": 57,
+          "salience": 0.9925
+        },
+        {
+          "start": 24.264853,
+          "end": 24.497052,
+          "midi": 67,
+          "salience": 0.924
+        },
+        {
+          "start": 24.497052,
+          "end": 24.740862,
+          "midi": 57,
+          "salience": 0.9738
+        },
+        {
+          "start": 24.740862,
+          "end": 25.007891,
+          "midi": 74,
+          "salience": 0.9198
+        },
+        {
+          "start": 25.007891,
+          "end": 26.029569,
+          "midi": 59,
+          "salience": 0.943
+        },
+        {
+          "start": 26.029569,
+          "end": 26.215329,
+          "midi": 76,
+          "salience": 0.9767
+        },
+        {
+          "start": 26.215329,
+          "end": 27.921995,
+          "midi": 59,
+          "salience": 0.9946
+        },
+        {
+          "start": 27.921995,
+          "end": 28.084535,
+          "midi": 64,
+          "salience": 0.9915
+        },
+        {
+          "start": 28.084535,
+          "end": 28.363175,
+          "midi": 57,
+          "salience": 0.9699
+        },
+        {
+          "start": 28.363175,
+          "end": 29.117823,
+          "midi": 76,
+          "salience": 0.9877
+        },
+        {
+          "start": 29.117823,
+          "end": 29.884082,
+          "midi": 57,
+          "salience": 0.9994
+        }
+      ]
+    }
+  },
+  {
+    "slug": "solar-eclipse",
+    "source_url": "https://music.apple.com/us/album/solar-eclipse/6818059268?i=6818059593&uo=4",
+    "preview_start_s": 17.1015,
+    "preview_end_s": 22.1751,
+    "status": "automatic_dominant_pitch_study_unverified",
+    "method": "Stereo difference (L-R)/2 to reduce centered vocals; 4096-sample Hann FFT at 22050Hz, hop256; envelope-whitened harmonic salience (5 partials), Viterbi continuity, 9-frame median filter, short-run merging. No manually invented notes.",
+    "warning": "Mixed recording: pitches may follow voice, bass or harmonics, not the hook. No ear verification. Times are relative to Apple 30s preview, not full song. Do not describe as an exact cover.",
+    "title": "Solar Eclipse",
+    "artist": "Drake & Don Toliver",
+    "beats": 8,
+    "notes": [
+      [
+        0.0,
+        70,
+        0.8
+      ],
+      [
+        0.2014,
+        66,
+        0.62
+      ],
+      [
+        0.421,
+        61,
+        0.62
+      ],
+      [
+        3.2036,
+        58,
+        0.8
+      ],
+      [
+        3.4051,
+        61,
+        0.62
+      ],
+      [
+        3.9726,
+        58,
+        0.62
+      ],
+      [
+        5.0159,
+        61,
+        0.8
+      ],
+      [
+        5.2906,
+        65,
+        0.62
+      ],
+      [
+        6.9565,
+        60,
+        0.62
+      ],
+      [
+        7.2494,
+        65,
+        0.8
+      ]
+    ],
+    "phraseLibrary": {
+      "anchor": 37,
+      "referenceDuration": 5.073599999999999,
+      "events": [
+        {
+          "start": 0.09288,
+          "end": 0.406349,
+          "midi": 61,
+          "salience": 0.93
+        },
+        {
+          "start": 0.406349,
+          "end": 0.615329,
+          "midi": 73,
+          "salience": 0.9168
+        },
+        {
+          "start": 0.615329,
+          "end": 1.486077,
+          "midi": 66,
+          "salience": 0.9596
+        },
+        {
+          "start": 1.486077,
+          "end": 1.904036,
+          "midi": 58,
+          "salience": 0.9415
+        },
+        {
+          "start": 1.904036,
+          "end": 2.263946,
+          "midi": 60,
+          "salience": 0.9761
+        },
+        {
+          "start": 2.263946,
+          "end": 3.332063,
+          "midi": 65,
+          "salience": 0.9955
+        },
+        {
+          "start": 3.332063,
+          "end": 3.482993,
+          "midi": 68,
+          "salience": 0.9556
+        },
+        {
+          "start": 3.482993,
+          "end": 4.284082,
+          "midi": 65,
+          "salience": 0.9896
+        },
+        {
+          "start": 4.284082,
+          "end": 4.841361,
+          "midi": 60,
+          "salience": 0.9765
+        },
+        {
+          "start": 4.841361,
+          "end": 4.96907,
+          "midi": 68,
+          "salience": 0.9862
+        },
+        {
+          "start": 4.96907,
+          "end": 5.537959,
+          "midi": 60,
+          "salience": 0.9925
+        },
+        {
+          "start": 5.537959,
+          "end": 5.677279,
+          "midi": 68,
+          "salience": 0.9909
+        },
+        {
+          "start": 5.677279,
+          "end": 6.803447,
+          "midi": 60,
+          "salience": 0.9758
+        },
+        {
+          "start": 6.803447,
+          "end": 7.685805,
+          "midi": 66,
+          "salience": 0.9616
+        },
+        {
+          "start": 7.685805,
+          "end": 7.929615,
+          "midi": 61,
+          "salience": 0.9842
+        },
+        {
+          "start": 7.929615,
+          "end": 8.068934,
+          "midi": 58,
+          "salience": 0.9745
+        },
+        {
+          "start": 8.068934,
+          "end": 8.637823,
+          "midi": 66,
+          "salience": 0.9515
+        },
+        {
+          "start": 8.637823,
+          "end": 9.601451,
+          "midi": 61,
+          "salience": 0.9836
+        },
+        {
+          "start": 9.601451,
+          "end": 9.972971,
+          "midi": 66,
+          "salience": 0.9273
+        },
+        {
+          "start": 9.972971,
+          "end": 10.15873,
+          "midi": 58,
+          "salience": 0.9901
+        },
+        {
+          "start": 10.15873,
+          "end": 10.29805,
+          "midi": 66,
+          "salience": 0.9703
+        },
+        {
+          "start": 10.29805,
+          "end": 10.565079,
+          "midi": 61,
+          "salience": 0.9842
+        },
+        {
+          "start": 10.565079,
+          "end": 10.971429,
+          "midi": 66,
+          "salience": 0.991
+        },
+        {
+          "start": 10.971429,
+          "end": 11.192018,
+          "midi": 58,
+          "salience": 0.9849
+        },
+        {
+          "start": 11.192018,
+          "end": 11.354558,
+          "midi": 61,
+          "salience": 0.9705
+        },
+        {
+          "start": 11.354558,
+          "end": 12.469116,
+          "midi": 65,
+          "salience": 0.9917
+        },
+        {
+          "start": 12.469116,
+          "end": 12.631655,
+          "midi": 68,
+          "salience": 0.9872
+        },
+        {
+          "start": 12.631655,
+          "end": 13.246984,
+          "midi": 65,
+          "salience": 0.9784
+        },
+        {
+          "start": 13.246984,
+          "end": 13.827483,
+          "midi": 60,
+          "salience": 0.9964
+        },
+        {
+          "start": 13.827483,
+          "end": 14.036463,
+          "midi": 68,
+          "salience": 0.9865
+        },
+        {
+          "start": 14.036463,
+          "end": 14.489252,
+          "midi": 60,
+          "salience": 0.9948
+        },
+        {
+          "start": 14.489252,
+          "end": 14.616961,
+          "midi": 65,
+          "salience": 0.9748
+        },
+        {
+          "start": 14.616961,
+          "end": 15.44127,
+          "midi": 60,
+          "salience": 0.9767
+        },
+        {
+          "start": 15.44127,
+          "end": 15.708299,
+          "midi": 68,
+          "salience": 0.9922
+        },
+        {
+          "start": 15.708299,
+          "end": 15.905669,
+          "midi": 60,
+          "salience": 0.9775
+        },
+        {
+          "start": 15.905669,
+          "end": 16.822857,
+          "midi": 66,
+          "salience": 0.9556
+        },
+        {
+          "start": 16.822857,
+          "end": 17.101497,
+          "midi": 61,
+          "salience": 0.9951
+        },
+        {
+          "start": 17.101497,
+          "end": 17.229206,
+          "midi": 70,
+          "salience": 0.9693
+        },
+        {
+          "start": 17.229206,
+          "end": 17.368526,
+          "midi": 66,
+          "salience": 0.9711
+        },
+        {
+          "start": 17.368526,
+          "end": 19.133243,
+          "midi": 61,
+          "salience": 0.9712
+        },
+        {
+          "start": 19.133243,
+          "end": 19.260952,
+          "midi": 58,
+          "salience": 0.975
+        },
+        {
+          "start": 19.260952,
+          "end": 19.620862,
+          "midi": 61,
+          "salience": 0.9941
+        },
+        {
+          "start": 19.620862,
+          "end": 20.28263,
+          "midi": 58,
+          "salience": 0.9624
+        },
+        {
+          "start": 20.28263,
+          "end": 20.45678,
+          "midi": 61,
+          "salience": 0.9717
+        },
+        {
+          "start": 20.45678,
+          "end": 21.513288,
+          "midi": 65,
+          "salience": 0.9954
+        },
+        {
+          "start": 21.513288,
+          "end": 21.699048,
+          "midi": 60,
+          "salience": 0.8855
+        },
+        {
+          "start": 21.699048,
+          "end": 22.175057,
+          "midi": 65,
+          "salience": 0.9972
+        },
+        {
+          "start": 22.175057,
+          "end": 22.418866,
+          "midi": 60,
+          "salience": 0.994
+        },
+        {
+          "start": 22.418866,
+          "end": 22.848435,
+          "midi": 65,
+          "salience": 0.9867
+        },
+        {
+          "start": 22.848435,
+          "end": 24.392562,
+          "midi": 60,
+          "salience": 0.967
+        },
+        {
+          "start": 24.392562,
+          "end": 24.775692,
+          "midi": 68,
+          "salience": 0.9954
+        },
+        {
+          "start": 24.775692,
+          "end": 24.996281,
+          "midi": 60,
+          "salience": 0.9716
+        },
+        {
+          "start": 24.996281,
+          "end": 27.411156,
+          "midi": 66,
+          "salience": 0.9738
+        },
+        {
+          "start": 27.411156,
+          "end": 27.875556,
+          "midi": 70,
+          "salience": 0.9195
+        },
+        {
+          "start": 27.875556,
+          "end": 28.781134,
+          "midi": 66,
+          "salience": 0.9629
+        },
+        {
+          "start": 28.781134,
+          "end": 28.990113,
+          "midi": 70,
+          "salience": 0.9875
+        },
+        {
+          "start": 28.990113,
+          "end": 29.512562,
+          "midi": 58,
+          "salience": 0.9568
+        },
+        {
+          "start": 29.512562,
+          "end": 29.884082,
+          "midi": 65,
+          "salience": 0.9754
+        }
+      ]
+    }
+  },
+  {
+    "slug": "2018",
+    "source_url": "https://music.apple.com/us/album/2018/1708124434?i=1708125292&uo=4",
+    "preview_start_s": 18.2393,
+    "preview_end_s": 24.648,
+    "status": "automatic_dominant_pitch_study_unverified",
+    "method": "Stereo difference (L-R)/2 to reduce centered vocals; 4096-sample Hann FFT at 22050Hz, hop256; envelope-whitened harmonic salience (5 partials), Viterbi continuity, 9-frame median filter, short-run merging. No manually invented notes.",
+    "warning": "Mixed recording: pitches may follow voice, bass or harmonics, not the hook. No ear verification. Times are relative to Apple 30s preview, not full song. Do not describe as an exact cover.",
+    "title": "2018",
+    "artist": "Rod Wave & Sadie Jean",
+    "beats": 8,
+    "notes": [
+      [
+        0.0,
+        65,
+        0.8
+      ],
+      [
+        0.2754,
+        63,
+        0.62
+      ],
+      [
+        0.4493,
+        61,
+        0.62
+      ],
+      [
+        0.884,
+        65,
+        0.8
+      ],
+      [
+        1.5797,
+        61,
+        0.62
+      ],
+      [
+        3.5507,
+        63,
+        0.62
+      ],
+      [
+        4.3623,
+        61,
+        0.8
+      ],
+      [
+        5.6232,
+        65,
+        0.62
+      ],
+      [
+        7.2609,
+        68,
+        0.62
+      ],
+      [
+        7.7101,
+        60,
+        0.8
+      ]
+    ],
+    "phraseLibrary": {
+      "anchor": 50,
+      "referenceDuration": 6.4087,
+      "events": [
+        {
+          "start": 0.09288,
+          "end": 0.325079,
+          "midi": 63,
+          "salience": 0.8599
+        },
+        {
+          "start": 0.325079,
+          "end": 0.464399,
+          "midi": 65,
+          "salience": 0.9818
+        },
+        {
+          "start": 0.464399,
+          "end": 0.603719,
+          "midi": 61,
+          "salience": 0.981
+        },
+        {
+          "start": 0.603719,
+          "end": 1.288707,
+          "midi": 63,
+          "salience": 0.9611
+        },
+        {
+          "start": 1.288707,
+          "end": 1.845986,
+          "midi": 61,
+          "salience": 0.9637
+        },
+        {
+          "start": 1.845986,
+          "end": 2.159456,
+          "midi": 65,
+          "salience": 0.9469
+        },
+        {
+          "start": 2.159456,
+          "end": 2.287166,
+          "midi": 63,
+          "salience": 0.9623
+        },
+        {
+          "start": 2.287166,
+          "end": 2.890884,
+          "midi": 61,
+          "salience": 0.9908
+        },
+        {
+          "start": 2.890884,
+          "end": 3.982222,
+          "midi": 63,
+          "salience": 0.9709
+        },
+        {
+          "start": 3.982222,
+          "end": 4.458231,
+          "midi": 61,
+          "salience": 0.8905
+        },
+        {
+          "start": 4.458231,
+          "end": 4.748481,
+          "midi": 68,
+          "salience": 0.9765
+        },
+        {
+          "start": 4.748481,
+          "end": 4.91102,
+          "midi": 61,
+          "salience": 0.9839
+        },
+        {
+          "start": 4.91102,
+          "end": 5.06195,
+          "midi": 65,
+          "salience": 0.9908
+        },
+        {
+          "start": 5.06195,
+          "end": 6.327438,
+          "midi": 61,
+          "salience": 0.9577
+        },
+        {
+          "start": 6.327438,
+          "end": 6.478367,
+          "midi": 58,
+          "salience": 0.9849
+        },
+        {
+          "start": 6.478367,
+          "end": 6.861497,
+          "midi": 61,
+          "salience": 0.9921
+        },
+        {
+          "start": 6.861497,
+          "end": 7.209796,
+          "midi": 65,
+          "salience": 0.8976
+        },
+        {
+          "start": 7.209796,
+          "end": 7.337506,
+          "midi": 68,
+          "salience": 0.9773
+        },
+        {
+          "start": 7.337506,
+          "end": 7.523265,
+          "midi": 61,
+          "salience": 0.959
+        },
+        {
+          "start": 7.523265,
+          "end": 7.801905,
+          "midi": 65,
+          "salience": 0.9693
+        },
+        {
+          "start": 7.801905,
+          "end": 8.231474,
+          "midi": 61,
+          "salience": 0.9211
+        },
+        {
+          "start": 8.231474,
+          "end": 8.475283,
+          "midi": 65,
+          "salience": 0.9885
+        },
+        {
+          "start": 8.475283,
+          "end": 9.253152,
+          "midi": 61,
+          "salience": 0.9687
+        },
+        {
+          "start": 9.253152,
+          "end": 9.380862,
+          "midi": 58,
+          "salience": 0.9757
+        },
+        {
+          "start": 9.380862,
+          "end": 9.99619,
+          "midi": 61,
+          "salience": 0.9392
+        },
+        {
+          "start": 9.99619,
+          "end": 10.20517,
+          "midi": 65,
+          "salience": 0.8868
+        },
+        {
+          "start": 10.20517,
+          "end": 10.507029,
+          "midi": 61,
+          "salience": 0.863
+        },
+        {
+          "start": 10.507029,
+          "end": 10.634739,
+          "midi": 59,
+          "salience": 0.9579
+        },
+        {
+          "start": 10.634739,
+          "end": 11.621587,
+          "midi": 61,
+          "salience": 0.95
+        },
+        {
+          "start": 11.621587,
+          "end": 11.969887,
+          "midi": 63,
+          "salience": 0.9475
+        },
+        {
+          "start": 11.969887,
+          "end": 12.353016,
+          "midi": 61,
+          "salience": 0.9869
+        },
+        {
+          "start": 12.353016,
+          "end": 12.538776,
+          "midi": 63,
+          "salience": 0.8727
+        },
+        {
+          "start": 12.538776,
+          "end": 12.678095,
+          "midi": 66,
+          "salience": 0.6912
+        },
+        {
+          "start": 12.678095,
+          "end": 12.829025,
+          "midi": 65,
+          "salience": 0.9604
+        },
+        {
+          "start": 12.829025,
+          "end": 12.979955,
+          "midi": 68,
+          "salience": 0.9732
+        },
+        {
+          "start": 12.979955,
+          "end": 13.165714,
+          "midi": 61,
+          "salience": 0.9833
+        },
+        {
+          "start": 13.165714,
+          "end": 13.328254,
+          "midi": 58,
+          "salience": 0.8739
+        },
+        {
+          "start": 13.328254,
+          "end": 13.595283,
+          "midi": 61,
+          "salience": 0.9201
+        },
+        {
+          "start": 13.595283,
+          "end": 13.722993,
+          "midi": 65,
+          "salience": 0.991
+        },
+        {
+          "start": 13.722993,
+          "end": 13.873923,
+          "midi": 61,
+          "salience": 0.99
+        },
+        {
+          "start": 13.873923,
+          "end": 14.640181,
+          "midi": 63,
+          "salience": 0.9319
+        },
+        {
+          "start": 14.640181,
+          "end": 15.22068,
+          "midi": 61,
+          "salience": 0.9525
+        },
+        {
+          "start": 15.22068,
+          "end": 15.40644,
+          "midi": 68,
+          "salience": 0.9849
+        },
+        {
+          "start": 15.40644,
+          "end": 15.627029,
+          "midi": 65,
+          "salience": 0.9869
+        },
+        {
+          "start": 15.627029,
+          "end": 16.776417,
+          "midi": 61,
+          "salience": 0.994
+        },
+        {
+          "start": 16.776417,
+          "end": 16.997007,
+          "midi": 58,
+          "salience": 0.99
+        },
+        {
+          "start": 16.997007,
+          "end": 17.438186,
+          "midi": 65,
+          "salience": 0.9598
+        },
+        {
+          "start": 17.438186,
+          "end": 17.565896,
+          "midi": 61,
+          "salience": 0.9729
+        },
+        {
+          "start": 17.565896,
+          "end": 17.879365,
+          "midi": 65,
+          "salience": 0.9769
+        },
+        {
+          "start": 17.879365,
+          "end": 18.239274,
+          "midi": 61,
+          "salience": 0.9088
+        },
+        {
+          "start": 18.239274,
+          "end": 18.459864,
+          "midi": 65,
+          "salience": 0.9707
+        },
+        {
+          "start": 18.459864,
+          "end": 18.599184,
+          "midi": 63,
+          "salience": 0.9657
+        },
+        {
+          "start": 18.599184,
+          "end": 18.947483,
+          "midi": 61,
+          "salience": 0.9368
+        },
+        {
+          "start": 18.947483,
+          "end": 19.504762,
+          "midi": 65,
+          "salience": 0.9743
+        },
+        {
+          "start": 19.504762,
+          "end": 21.083719,
+          "midi": 61,
+          "salience": 0.9818
+        },
+        {
+          "start": 21.083719,
+          "end": 21.733878,
+          "midi": 63,
+          "salience": 0.9871
+        },
+        {
+          "start": 21.733878,
+          "end": 22.743946,
+          "midi": 61,
+          "salience": 0.9513
+        },
+        {
+          "start": 22.743946,
+          "end": 24.055873,
+          "midi": 65,
+          "salience": 0.9451
+        },
+        {
+          "start": 24.055873,
+          "end": 24.415782,
+          "midi": 68,
+          "salience": 0.9856
+        },
+        {
+          "start": 24.415782,
+          "end": 24.647982,
+          "midi": 60,
+          "salience": 0.9893
+        },
+        {
+          "start": 24.647982,
+          "end": 24.856961,
+          "midi": 65,
+          "salience": 0.9734
+        },
+        {
+          "start": 24.856961,
+          "end": 25.089161,
+          "midi": 73,
+          "salience": 0.771
+        },
+        {
+          "start": 25.089161,
+          "end": 25.79737,
+          "midi": 63,
+          "salience": 0.9255
+        },
+        {
+          "start": 25.79737,
+          "end": 25.971519,
+          "midi": 61,
+          "salience": 0.9829
+        },
+        {
+          "start": 25.971519,
+          "end": 26.412698,
+          "midi": 60,
+          "salience": 0.9924
+        },
+        {
+          "start": 26.412698,
+          "end": 26.644898,
+          "midi": 73,
+          "salience": 0.9376
+        },
+        {
+          "start": 26.644898,
+          "end": 27.434376,
+          "midi": 61,
+          "salience": 0.9644
+        },
+        {
+          "start": 27.434376,
+          "end": 27.573696,
+          "midi": 72,
+          "salience": 0.9648
+        },
+        {
+          "start": 27.573696,
+          "end": 27.782676,
+          "midi": 73,
+          "salience": 0.9642
+        },
+        {
+          "start": 27.782676,
+          "end": 28.026485,
+          "midi": 68,
+          "salience": 0.9501
+        },
+        {
+          "start": 28.026485,
+          "end": 28.235465,
+          "midi": 61,
+          "salience": 0.9856
+        },
+        {
+          "start": 28.235465,
+          "end": 29.384853,
+          "midi": 65,
+          "salience": 0.971
+        },
+        {
+          "start": 29.384853,
+          "end": 29.884082,
+          "midi": 61,
+          "salience": 0.9958
+        }
+      ]
+    }
+  },
+  {
+    "slug": "16-eden",
+    "source_url": "https://music.apple.com/us/album/16-eden/1825056767?i=1825056773&uo=4",
+    "preview_start_s": 7.2446,
+    "preview_end_s": 13.6301,
+    "status": "automatic_dominant_pitch_study_unverified",
+    "method": "Stereo difference (L-R)/2 to reduce centered vocals; 4096-sample Hann FFT at 22050Hz, hop256; envelope-whitened harmonic salience (5 partials), Viterbi continuity, 9-frame median filter, short-run merging. No manually invented notes.",
+    "warning": "Mixed recording: pitches may follow voice, bass or harmonics, not the hook. No ear verification. Times are relative to Apple 30s preview, not full song. Do not describe as an exact cover.",
+    "title": "16 Eden",
+    "artist": "Damzz",
+    "beats": 8,
+    "notes": [
+      [
+        0.0,
+        68,
+        0.8
+      ],
+      [
+        0.4654,
+        61,
+        0.62
+      ],
+      [
+        1.0908,
+        66,
+        0.62
+      ],
+      [
+        2.2691,
+        78,
+        0.8
+      ],
+      [
+        2.5309,
+        73,
+        0.62
+      ],
+      [
+        3.8982,
+        78,
+        0.62
+      ],
+      [
+        4.4218,
+        73,
+        0.8
+      ],
+      [
+        5.3237,
+        71,
+        0.62
+      ],
+      [
+        5.4982,
+        73,
+        0.62
+      ],
+      [
+        7.7527,
+        66,
+        0.8
+      ]
+    ],
+    "phraseLibrary": {
+      "anchor": 18,
+      "referenceDuration": 6.3855,
+      "events": [
+        {
+          "start": 0.09288,
+          "end": 0.673379,
+          "midi": 73,
+          "salience": 0.9585
+        },
+        {
+          "start": 0.673379,
+          "end": 0.812698,
+          "midi": 67,
+          "salience": 0.9685
+        },
+        {
+          "start": 0.812698,
+          "end": 1.079728,
+          "midi": 76,
+          "salience": 0.92
+        },
+        {
+          "start": 1.079728,
+          "end": 1.625397,
+          "midi": 66,
+          "salience": 0.9671
+        },
+        {
+          "start": 1.625397,
+          "end": 2.879274,
+          "midi": 73,
+          "salience": 0.9762
+        },
+        {
+          "start": 2.879274,
+          "end": 3.088254,
+          "midi": 66,
+          "salience": 0.9909
+        },
+        {
+          "start": 3.088254,
+          "end": 3.726803,
+          "midi": 78,
+          "salience": 0.9946
+        },
+        {
+          "start": 3.726803,
+          "end": 4.237642,
+          "midi": 68,
+          "salience": 0.993
+        },
+        {
+          "start": 4.237642,
+          "end": 4.435011,
+          "midi": 83,
+          "salience": 0.9766
+        },
+        {
+          "start": 4.435011,
+          "end": 4.597551,
+          "midi": 71,
+          "salience": 0.9788
+        },
+        {
+          "start": 4.597551,
+          "end": 4.98068,
+          "midi": 66,
+          "salience": 0.9908
+        },
+        {
+          "start": 4.98068,
+          "end": 5.13161,
+          "midi": 73,
+          "salience": 0.9931
+        },
+        {
+          "start": 5.13161,
+          "end": 6.130068,
+          "midi": 66,
+          "salience": 0.9835
+        },
+        {
+          "start": 6.130068,
+          "end": 6.455147,
+          "midi": 73,
+          "salience": 0.9913
+        },
+        {
+          "start": 6.455147,
+          "end": 6.582857,
+          "midi": 66,
+          "salience": 0.9576
+        },
+        {
+          "start": 6.582857,
+          "end": 6.757007,
+          "midi": 73,
+          "salience": 0.9837
+        },
+        {
+          "start": 6.757007,
+          "end": 7.035646,
+          "midi": 66,
+          "salience": 0.9563
+        },
+        {
+          "start": 7.035646,
+          "end": 7.244626,
+          "midi": 78,
+          "salience": 0.989
+        },
+        {
+          "start": 7.244626,
+          "end": 7.616145,
+          "midi": 68,
+          "salience": 0.9805
+        },
+        {
+          "start": 7.616145,
+          "end": 8.115374,
+          "midi": 61,
+          "salience": 0.9923
+        },
+        {
+          "start": 8.115374,
+          "end": 9.055782,
+          "midi": 66,
+          "salience": 0.9919
+        },
+        {
+          "start": 9.055782,
+          "end": 9.264762,
+          "midi": 78,
+          "salience": 0.9707
+        },
+        {
+          "start": 9.264762,
+          "end": 10.3561,
+          "midi": 73,
+          "salience": 0.9878
+        },
+        {
+          "start": 10.3561,
+          "end": 10.774059,
+          "midi": 78,
+          "salience": 0.9926
+        },
+        {
+          "start": 10.774059,
+          "end": 11.493878,
+          "midi": 73,
+          "salience": 0.9893
+        },
+        {
+          "start": 11.493878,
+          "end": 11.633197,
+          "midi": 71,
+          "salience": 0.9861
+        },
+        {
+          "start": 11.633197,
+          "end": 13.432744,
+          "midi": 73,
+          "salience": 0.9763
+        },
+        {
+          "start": 13.432744,
+          "end": 13.630113,
+          "midi": 66,
+          "salience": 0.973
+        },
+        {
+          "start": 13.630113,
+          "end": 14.326712,
+          "midi": 78,
+          "salience": 0.9882
+        },
+        {
+          "start": 14.326712,
+          "end": 14.767891,
+          "midi": 65,
+          "salience": 0.9936
+        },
+        {
+          "start": 14.767891,
+          "end": 14.907211,
+          "midi": 77,
+          "salience": 0.9913
+        },
+        {
+          "start": 14.907211,
+          "end": 15.19746,
+          "midi": 65,
+          "salience": 0.9827
+        },
+        {
+          "start": 15.19746,
+          "end": 15.917279,
+          "midi": 66,
+          "salience": 0.9972
+        },
+        {
+          "start": 15.917279,
+          "end": 16.253968,
+          "midi": 73,
+          "salience": 0.9759
+        },
+        {
+          "start": 16.253968,
+          "end": 16.474558,
+          "midi": 78,
+          "salience": 0.982
+        },
+        {
+          "start": 16.474558,
+          "end": 17.124717,
+          "midi": 73,
+          "salience": 0.9892
+        },
+        {
+          "start": 17.124717,
+          "end": 17.844535,
+          "midi": 78,
+          "salience": 0.9921
+        },
+        {
+          "start": 17.844535,
+          "end": 18.517914,
+          "midi": 68,
+          "salience": 0.9923
+        },
+        {
+          "start": 18.517914,
+          "end": 18.715283,
+          "midi": 83,
+          "salience": 0.9827
+        },
+        {
+          "start": 18.715283,
+          "end": 20.085261,
+          "midi": 66,
+          "salience": 0.9831
+        },
+        {
+          "start": 20.085261,
+          "end": 20.28263,
+          "midi": 57,
+          "salience": 0.9898
+        },
+        {
+          "start": 20.28263,
+          "end": 20.56127,
+          "midi": 66,
+          "salience": 0.9652
+        },
+        {
+          "start": 20.56127,
+          "end": 21.373968,
+          "midi": 78,
+          "salience": 0.9936
+        },
+        {
+          "start": 21.373968,
+          "end": 21.884807,
+          "midi": 68,
+          "salience": 0.9716
+        },
+        {
+          "start": 21.884807,
+          "end": 22.233107,
+          "midi": 73,
+          "salience": 0.9809
+        },
+        {
+          "start": 22.233107,
+          "end": 22.894875,
+          "midi": 66,
+          "salience": 0.9943
+        },
+        {
+          "start": 22.894875,
+          "end": 23.034195,
+          "midi": 73,
+          "salience": 0.9884
+        },
+        {
+          "start": 23.034195,
+          "end": 23.254785,
+          "midi": 78,
+          "salience": 0.9906
+        },
+        {
+          "start": 23.254785,
+          "end": 23.661134,
+          "midi": 73,
+          "salience": 0.9623
+        },
+        {
+          "start": 23.661134,
+          "end": 24.044263,
+          "midi": 66,
+          "salience": 0.9545
+        },
+        {
+          "start": 24.044263,
+          "end": 24.915011,
+          "midi": 78,
+          "salience": 0.9655
+        },
+        {
+          "start": 24.915011,
+          "end": 25.49551,
+          "midi": 68,
+          "salience": 0.9928
+        },
+        {
+          "start": 25.49551,
+          "end": 25.77415,
+          "midi": 83,
+          "salience": 0.9472
+        },
+        {
+          "start": 25.77415,
+          "end": 25.959909,
+          "midi": 66,
+          "salience": 0.9754
+        },
+        {
+          "start": 25.959909,
+          "end": 26.505578,
+          "midi": 73,
+          "salience": 0.9977
+        },
+        {
+          "start": 26.505578,
+          "end": 26.644898,
+          "midi": 66,
+          "salience": 0.9838
+        },
+        {
+          "start": 26.644898,
+          "end": 26.911927,
+          "midi": 73,
+          "salience": 0.9398
+        },
+        {
+          "start": 26.911927,
+          "end": 27.329887,
+          "midi": 78,
+          "salience": 0.9927
+        },
+        {
+          "start": 27.329887,
+          "end": 27.852336,
+          "midi": 66,
+          "salience": 0.9705
+        },
+        {
+          "start": 27.852336,
+          "end": 28.432834,
+          "midi": 78,
+          "salience": 0.9966
+        },
+        {
+          "start": 28.432834,
+          "end": 28.920454,
+          "midi": 68,
+          "salience": 0.9415
+        },
+        {
+          "start": 28.920454,
+          "end": 29.129433,
+          "midi": 61,
+          "salience": 0.9656
+        },
+        {
+          "start": 29.129433,
+          "end": 29.303583,
+          "midi": 65,
+          "salience": 0.9529
+        },
+        {
+          "start": 29.303583,
+          "end": 29.884082,
+          "midi": 61,
+          "salience": 0.9736
+        }
+      ]
+    }
+  },
+  {
+    "slug": "crypto-price",
+    "source_url": "https://music.apple.com/us/album/crypto-price/1649429230?i=1649429412&uo=4",
+    "preview_start_s": 8.5333,
+    "preview_end_s": 12.62,
+    "status": "automatic_dominant_pitch_study_unverified",
+    "method": "Stereo difference (L-R)/2 to reduce centered vocals; 4096-sample Hann FFT at 22050Hz, hop256; envelope-whitened harmonic salience (5 partials), Viterbi continuity, 9-frame median filter, short-run merging. No manually invented notes.",
+    "warning": "Mixed recording: pitches may follow voice, bass or harmonics, not the hook. No ear verification. Times are relative to Apple 30s preview, not full song. Do not describe as an exact cover.",
+    "title": "Crypto Price",
+    "artist": "Central Cee",
+    "beats": 8,
+    "notes": [
+      [
+        0.0,
+        67,
+        0.8
+      ],
+      [
+        0.4091,
+        65,
+        0.62
+      ],
+      [
+        1.0226,
+        63,
+        0.62
+      ],
+      [
+        1.4091,
+        65,
+        0.8
+      ],
+      [
+        3.3183,
+        59,
+        0.62
+      ],
+      [
+        4.1818,
+        57,
+        0.62
+      ],
+      [
+        5.1136,
+        60,
+        0.8
+      ],
+      [
+        5.5,
+        67,
+        0.62
+      ],
+      [
+        5.8637,
+        70,
+        0.62
+      ],
+      [
+        7.1136,
+        63,
+        0.8
+      ]
+    ],
+    "phraseLibrary": {
+      "anchor": 25,
+      "referenceDuration": 4.086699999999999,
+      "events": [
+        {
+          "start": 0.09288,
+          "end": 0.510839,
+          "midi": 60,
+          "salience": 0.9899
+        },
+        {
+          "start": 0.510839,
+          "end": 1.369977,
+          "midi": 67,
+          "salience": 0.941
+        },
+        {
+          "start": 1.369977,
+          "end": 1.509297,
+          "midi": 62,
+          "salience": 0.965
+        },
+        {
+          "start": 1.509297,
+          "end": 1.822766,
+          "midi": 67,
+          "salience": 0.984
+        },
+        {
+          "start": 1.822766,
+          "end": 2.159456,
+          "midi": 65,
+          "salience": 0.9576
+        },
+        {
+          "start": 2.159456,
+          "end": 2.461315,
+          "midi": 63,
+          "salience": 0.9833
+        },
+        {
+          "start": 2.461315,
+          "end": 2.681905,
+          "midi": 60,
+          "salience": 0.9691
+        },
+        {
+          "start": 2.681905,
+          "end": 2.821224,
+          "midi": 67,
+          "salience": 0.9192
+        },
+        {
+          "start": 2.821224,
+          "end": 2.948934,
+          "midi": 65,
+          "salience": 0.9577
+        },
+        {
+          "start": 2.948934,
+          "end": 3.204354,
+          "midi": 60,
+          "salience": 0.9435
+        },
+        {
+          "start": 3.204354,
+          "end": 3.691973,
+          "midi": 63,
+          "salience": 0.9633
+        },
+        {
+          "start": 3.691973,
+          "end": 4.609161,
+          "midi": 60,
+          "salience": 0.978
+        },
+        {
+          "start": 4.609161,
+          "end": 4.794921,
+          "midi": 70,
+          "salience": 0.953
+        },
+        {
+          "start": 4.794921,
+          "end": 5.02712,
+          "midi": 60,
+          "salience": 0.9663
+        },
+        {
+          "start": 5.02712,
+          "end": 5.387029,
+          "midi": 67,
+          "salience": 0.976
+        },
+        {
+          "start": 5.387029,
+          "end": 5.909478,
+          "midi": 63,
+          "salience": 0.9454
+        },
+        {
+          "start": 5.909478,
+          "end": 6.269388,
+          "midi": 67,
+          "salience": 0.976
+        },
+        {
+          "start": 6.269388,
+          "end": 6.455147,
+          "midi": 79,
+          "salience": 0.9893
+        },
+        {
+          "start": 6.455147,
+          "end": 6.768617,
+          "midi": 63,
+          "salience": 0.9763
+        },
+        {
+          "start": 6.768617,
+          "end": 6.907937,
+          "midi": 58,
+          "salience": 0.9705
+        },
+        {
+          "start": 6.907937,
+          "end": 7.894785,
+          "midi": 60,
+          "salience": 0.9818
+        },
+        {
+          "start": 7.894785,
+          "end": 8.057324,
+          "midi": 77,
+          "salience": 0.9845
+        },
+        {
+          "start": 8.057324,
+          "end": 8.231474,
+          "midi": 79,
+          "salience": 0.9918
+        },
+        {
+          "start": 8.231474,
+          "end": 8.405624,
+          "midi": 67,
+          "salience": 0.9781
+        },
+        {
+          "start": 8.405624,
+          "end": 8.533333,
+          "midi": 79,
+          "salience": 0.9945
+        },
+        {
+          "start": 8.533333,
+          "end": 8.742313,
+          "midi": 67,
+          "salience": 0.9699
+        },
+        {
+          "start": 8.742313,
+          "end": 9.055782,
+          "midi": 65,
+          "salience": 0.9836
+        },
+        {
+          "start": 9.055782,
+          "end": 9.253152,
+          "midi": 63,
+          "salience": 0.9883
+        },
+        {
+          "start": 9.253152,
+          "end": 10.22839,
+          "midi": 65,
+          "salience": 0.9415
+        },
+        {
+          "start": 10.22839,
+          "end": 10.669569,
+          "midi": 59,
+          "salience": 0.9391
+        },
+        {
+          "start": 10.669569,
+          "end": 11.145578,
+          "midi": 57,
+          "salience": 0.9112
+        },
+        {
+          "start": 11.145578,
+          "end": 11.342948,
+          "midi": 60,
+          "salience": 0.957
+        },
+        {
+          "start": 11.342948,
+          "end": 11.528707,
+          "midi": 67,
+          "salience": 0.9934
+        },
+        {
+          "start": 11.528707,
+          "end": 12.167256,
+          "midi": 70,
+          "salience": 0.9813
+        },
+        {
+          "start": 12.167256,
+          "end": 12.620045,
+          "midi": 63,
+          "salience": 0.9438
+        },
+        {
+          "start": 12.620045,
+          "end": 12.782585,
+          "midi": 67,
+          "salience": 0.9924
+        },
+        {
+          "start": 12.782585,
+          "end": 13.026395,
+          "midi": 60,
+          "salience": 0.9835
+        },
+        {
+          "start": 13.026395,
+          "end": 13.328254,
+          "midi": 67,
+          "salience": 0.9904
+        },
+        {
+          "start": 13.328254,
+          "end": 13.548844,
+          "midi": 60,
+          "salience": 0.9674
+        },
+        {
+          "start": 13.548844,
+          "end": 13.688163,
+          "midi": 58,
+          "salience": 0.9243
+        },
+        {
+          "start": 13.688163,
+          "end": 13.990023,
+          "midi": 60,
+          "salience": 0.978
+        },
+        {
+          "start": 13.990023,
+          "end": 14.384762,
+          "midi": 67,
+          "salience": 0.9947
+        },
+        {
+          "start": 14.384762,
+          "end": 14.744671,
+          "midi": 60,
+          "salience": 0.8959
+        },
+        {
+          "start": 14.744671,
+          "end": 15.30195,
+          "midi": 70,
+          "salience": 0.9472
+        },
+        {
+          "start": 15.30195,
+          "end": 16.010159,
+          "midi": 67,
+          "salience": 0.8996
+        },
+        {
+          "start": 16.010159,
+          "end": 16.172698,
+          "midi": 75,
+          "salience": 0.9805
+        },
+        {
+          "start": 16.172698,
+          "end": 16.393288,
+          "midi": 72,
+          "salience": 0.9885
+        },
+        {
+          "start": 16.393288,
+          "end": 16.625488,
+          "midi": 63,
+          "salience": 0.9835
+        },
+        {
+          "start": 16.625488,
+          "end": 16.776417,
+          "midi": 65,
+          "salience": 0.9924
+        },
+        {
+          "start": 16.776417,
+          "end": 17.240816,
+          "midi": 75,
+          "salience": 0.9871
+        },
+        {
+          "start": 17.240816,
+          "end": 17.449796,
+          "midi": 63,
+          "salience": 0.9376
+        },
+        {
+          "start": 17.449796,
+          "end": 17.589116,
+          "midi": 67,
+          "salience": 0.9745
+        },
+        {
+          "start": 17.589116,
+          "end": 17.821315,
+          "midi": 79,
+          "salience": 0.9769
+        },
+        {
+          "start": 17.821315,
+          "end": 17.995465,
+          "midi": 67,
+          "salience": 0.9672
+        },
+        {
+          "start": 17.995465,
+          "end": 18.448254,
+          "midi": 60,
+          "salience": 0.9312
+        },
+        {
+          "start": 18.448254,
+          "end": 18.622404,
+          "midi": 74,
+          "salience": 0.9868
+        },
+        {
+          "start": 18.622404,
+          "end": 18.959093,
+          "midi": 70,
+          "salience": 0.9871
+        },
+        {
+          "start": 18.959093,
+          "end": 19.086803,
+          "midi": 60,
+          "salience": 0.9517
+        },
+        {
+          "start": 19.086803,
+          "end": 19.272562,
+          "midi": 63,
+          "salience": 0.9818
+        },
+        {
+          "start": 19.272562,
+          "end": 19.516372,
+          "midi": 72,
+          "salience": 0.9683
+        },
+        {
+          "start": 19.516372,
+          "end": 19.678912,
+          "midi": 67,
+          "salience": 0.9765
+        },
+        {
+          "start": 19.678912,
+          "end": 19.864671,
+          "midi": 79,
+          "salience": 0.9498
+        },
+        {
+          "start": 19.864671,
+          "end": 20.39873,
+          "midi": 75,
+          "salience": 0.9742
+        },
+        {
+          "start": 20.39873,
+          "end": 20.60771,
+          "midi": 67,
+          "salience": 0.9812
+        },
+        {
+          "start": 20.60771,
+          "end": 20.874739,
+          "midi": 75,
+          "salience": 0.9493
+        },
+        {
+          "start": 20.874739,
+          "end": 21.072109,
+          "midi": 60,
+          "salience": 0.9511
+        },
+        {
+          "start": 21.072109,
+          "end": 21.571338,
+          "midi": 72,
+          "salience": 0.9852
+        },
+        {
+          "start": 21.571338,
+          "end": 21.780317,
+          "midi": 77,
+          "salience": 0.9837
+        },
+        {
+          "start": 21.780317,
+          "end": 21.989297,
+          "midi": 79,
+          "salience": 0.9004
+        },
+        {
+          "start": 21.989297,
+          "end": 22.175057,
+          "midi": 74,
+          "salience": 0.9896
+        },
+        {
+          "start": 22.175057,
+          "end": 22.453696,
+          "midi": 79,
+          "salience": 0.9844
+        },
+        {
+          "start": 22.453696,
+          "end": 22.604626,
+          "midi": 80,
+          "salience": 0.9194
+        },
+        {
+          "start": 22.604626,
+          "end": 22.894875,
+          "midi": 72,
+          "salience": 0.9721
+        },
+        {
+          "start": 22.894875,
+          "end": 23.022585,
+          "midi": 75,
+          "salience": 0.9889
+        },
+        {
+          "start": 23.022585,
+          "end": 23.196735,
+          "midi": 65,
+          "salience": 0.9847
+        },
+        {
+          "start": 23.196735,
+          "end": 23.417324,
+          "midi": 72,
+          "salience": 0.9699
+        },
+        {
+          "start": 23.417324,
+          "end": 23.707574,
+          "midi": 65,
+          "salience": 0.9938
+        },
+        {
+          "start": 23.707574,
+          "end": 24.079093,
+          "midi": 75,
+          "salience": 0.9753
+        },
+        {
+          "start": 24.079093,
+          "end": 24.288073,
+          "midi": 63,
+          "salience": 0.9856
+        },
+        {
+          "start": 24.288073,
+          "end": 24.450612,
+          "midi": 67,
+          "salience": 0.9723
+        },
+        {
+          "start": 24.450612,
+          "end": 24.659592,
+          "midi": 60,
+          "salience": 0.9592
+        },
+        {
+          "start": 24.659592,
+          "end": 24.787302,
+          "midi": 79,
+          "salience": 0.982
+        },
+        {
+          "start": 24.787302,
+          "end": 25.042721,
+          "midi": 70,
+          "salience": 0.8689
+        },
+        {
+          "start": 25.042721,
+          "end": 25.274921,
+          "midi": 79,
+          "salience": 0.9828
+        },
+        {
+          "start": 25.274921,
+          "end": 25.41424,
+          "midi": 70,
+          "salience": 0.9889
+        },
+        {
+          "start": 25.41424,
+          "end": 25.867029,
+          "midi": 79,
+          "salience": 0.9857
+        },
+        {
+          "start": 25.867029,
+          "end": 26.552018,
+          "midi": 60,
+          "salience": 0.9498
+        },
+        {
+          "start": 26.552018,
+          "end": 26.784218,
+          "midi": 70,
+          "salience": 0.9291
+        },
+        {
+          "start": 26.784218,
+          "end": 27.016417,
+          "midi": 63,
+          "salience": 0.9844
+        },
+        {
+          "start": 27.016417,
+          "end": 27.515646,
+          "midi": 58,
+          "salience": 0.9326
+        },
+        {
+          "start": 27.515646,
+          "end": 27.689796,
+          "midi": 60,
+          "salience": 0.9915
+        },
+        {
+          "start": 27.689796,
+          "end": 27.817506,
+          "midi": 67,
+          "salience": 0.9688
+        },
+        {
+          "start": 27.817506,
+          "end": 27.968435,
+          "midi": 60,
+          "salience": 0.9723
+        },
+        {
+          "start": 27.968435,
+          "end": 28.165805,
+          "midi": 58,
+          "salience": 0.9245
+        },
+        {
+          "start": 28.165805,
+          "end": 28.456054,
+          "midi": 57,
+          "salience": 0.9416
+        },
+        {
+          "start": 28.456054,
+          "end": 28.746304,
+          "midi": 67,
+          "salience": 0.9146
+        },
+        {
+          "start": 28.746304,
+          "end": 28.990113,
+          "midi": 70,
+          "salience": 0.9728
+        },
+        {
+          "start": 28.990113,
+          "end": 29.744762,
+          "midi": 65,
+          "salience": 0.9577
+        },
+        {
+          "start": 29.744762,
+          "end": 29.884082,
+          "midi": 63,
+          "salience": 0.9622
+        }
+      ]
+    }
+  }
+]

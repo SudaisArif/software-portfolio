@@ -1,0 +1,9 @@
+{
+  "name": "gaffers-gambit",
+  "account_id": "9838567ffc5dd718b0add59ecedb42ec",
+  "main": "worker.ts",
+  "compatibility_date": "2026-10-29",
+  "workers_dev": true,
+  "preview_urls": false,
+  "observability": { "enabled": true },
+}

@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "opening_hook": [
+    "REST LESS.",
+    "GET LESS?"
+  ],
+  "closing_hold_seconds": 0.65,
+  "style": "full_bleed_feed_edit",
+  "segments": [
+    {
+      "id": "f01",
+      "shots": [
+        {
+          "shot": "pexels-4921642",
+          "source_start": 3,
+          "speed": 1,
+          "zoom_start": 1.02,
+          "zoom_end": 1.1,
+          "focus_y": 0.58
+        },
+        {
+          "shot": "pexels-4746007",
+          "source_start": 1.7,
+          "speed": 1,
+          "zoom_start": 1.05,
+          "zoom_end": 1.14
+        },
+        {
+          "shot": "pexels-5319421",
+          "source_start": 3,
+          "speed": 1,
+          "zoom_start": 1.0,
+          "zoom_end": 1.08
+        }
+      ],
+      "caption_phrases": [
+        "Your one-minute rest timer",
+        "might be costing you strength."
+      ]
+    },
+    {
+      "id": "f02",
+      "shots": [
+        {
+          "shot": "pexels-4921642",
+          "source_start": 0.5,
+          "speed": 1,
+          "zoom_start": 1,
+          "zoom_end": 1,
+          "right_shot": "pexels-4921642",
+          "right_source_start": 6,
+          "graphic": "timers"
+        },
+        {
+          "shot": "pexels-4921641",
+          "source_start": 0.4,
+          "speed": 1,
+          "zoom_start": 1.06,
+          "zoom_end": 1.12,
+          "graphic": "result"
+        },
+        {
+          "shot": "pexels-4921642",
+          "source_start": 6.5,
+          "speed": 1,
+          "zoom_start": 1.1,
+          "zoom_end": 1.04,
+          "focus_y": 0.58,
+          "graphic": "result"
+        }
+      ],
+      "caption_phrases": [
+        "One minute versus three:",
+        "in a small eight-week trial,",
+        "the three-minute group",
+        "gained more squat",
+        "and bench strength."
+      ]
+    },
+    {
+      "id": "f03",
+      "shots": [
+        {
+          "shot": "pexels-4746007",
+          "source_start": 0.5,
+          "speed": 1,
+          "zoom_start": 1.02,
+          "zoom_end": 1.08
+        },
+        {
+          "shot": "pexels-4367575",
+          "source_start": 3,
+          "speed": 1,
+          "zoom_start": 1.14,
+          "zoom_end": 1.08
+        }
+      ],
+      "caption_phrases": [
+        "Same planned workouts.",
+        "Different breaks."
+      ]
+    },
+    {
+      "id": "f04",
+      "shots": [
+        {
+          "shot": "pexels-4921642",
+          "source_start": 4,
+          "speed": 1,
+          "zoom_start": 1.09,
+          "zoom_end": 1.16,
+          "focus_y": 0.58
+        },
+        {
+          "shot": "pexels-7672123",
+          "source_start": 4,
+          "speed": 1,
+          "zoom_start": 1,
+          "zoom_end": 1.06
+        }
+      ],
+      "caption_phrases": [
+        "So why rush back",
+        "just to struggle",
+        "through the next set?"
+      ]
+    },
+    {
+      "id": "f05",
+      "shots": [
+        {
+          "shot": "pexels-5319421",
+          "source_start": 8,
+          "speed": 1,
+          "zoom_start": 1.03,
+          "zoom_end": 1.07
+        },
+        {
+          "shot": "pexels-7672123",
+          "source_start": 11,
+          "speed": 1,
+          "zoom_start": 1.08,
+          "zoom_end": 1.01
+        }
+      ],
+      "caption_phrases": [
+        "This was twenty-one trained men,",
+        "so three minutes",
+        "isn't a magic rule",
+        "for everyone."
+      ]
+    },
+    {
+      "id": "f06",
+      "shots": [
+        {
+          "shot": "pexels-4921641",
+          "source_start": 4.2,
+          "speed": 1,
+          "zoom_start": 1.02,
+          "zoom_end": 1.1
+        },
+        {
+          "shot": "pexels-4921642",
+          "source_start": 9,
+          "speed": 1,
+          "zoom_start": 1.06,
+          "zoom_end": 1.13,
+          "focus_y": 0.58
+        }
+      ],
+      "caption_phrases": [
+        "But if your reps",
+        "keep falling off a cliff,",
+        "try resting longer",
+        "and compare."
+      ]
+    },
+    {
+      "id": "f07",
+      "shots": [
+        {
+          "shot": "pexels-7672123",
+          "source_start": 23,
+          "speed": 1,
+          "zoom_start": 1,
+          "zoom_end": 1.08
+        },
+        {
+          "shot": "pexels-4367575",
+          "source_start": 7,
+          "speed": 1,
+          "zoom_start": 1.06,
+          "zoom_end": 1.12
+        }
+      ],
+      "caption_phrases": [
+        "And be honest:",
+        "do you actually feel ready,",
+        "or do you just",
+        "feel guilty sitting still?"
+      ]
+    },
+    {
+      "id": "f08",
+      "graphic": "question",
+      "shots": [
+        {
+          "shot": "pexels-7672123",
+          "source_start": 32,
+          "speed": 1,
+          "zoom_start": 1,
+          "zoom_end": 1.06
+        }
+      ],
+      "caption_phrases": [
+        "What's your rest time?",
+        "And which lift?"
+      ]
+    }
+  ]
+}

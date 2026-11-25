@@ -1,0 +1,2 @@
+# Optional deployment dependency; not needed for local review or tests.
+boto3>=1.40,<2

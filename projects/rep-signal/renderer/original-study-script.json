@@ -1,0 +1,101 @@
+{
+  "title": "Rest longer. Get stronger?",
+  "brand": "REP SIGNAL",
+  "target_duration_seconds": [
+    65,
+    85
+  ],
+  "status": "original_script_for_narrated_review",
+  "publishable": false,
+  "voice_direction": "Conversational training partner, curious and matter-of-fact. Natural breaths and pauses. Emphasize the contrast, soften the caveat. No broadcaster delivery, imitation of a real person or claims of human recording. Synthetic narration must be identified in provenance.",
+  "script": "These lifters took longer breaks, and gained more strength. So, is resting more the easiest training upgrade? A small study gives us a clue. Not a universal rule. Researchers randomly split twenty-one young, trained men into two groups. For eight weeks, both groups trained three times a week, with the same planned workouts. The difference? One minute between sets, or three. The three-minute group made bigger gains in bench press and squat strength. They also gained more muscle thickness at the front of the thigh. But the advantage was not clear in every muscle they measured. And twenty-one men over eight weeks cannot settle this for everybody. A later review combined nine studies. It found a small possible muscle-growth benefit from rests longer than a minute, with plenty of uncertainty. It did not establish that three minutes always beats ninety seconds. The practical question is simple: are you ready to make the next set count? If a timer sends you back before you're ready, your rest deserves a second look.",
+  "segments": [
+    {
+      "id": "s01",
+      "text": "These lifters took longer breaks, and gained more strength."
+    },
+    {
+      "id": "s02",
+      "text": "So, is resting more the easiest training upgrade?"
+    },
+    {
+      "id": "s03",
+      "text": "A small study gives us a clue. Not a universal rule."
+    },
+    {
+      "id": "s04",
+      "text": "Researchers randomly split twenty-one young, trained men into two groups."
+    },
+    {
+      "id": "s05",
+      "text": "For eight weeks, both groups trained three times a week, with the same planned workouts."
+    },
+    {
+      "id": "s06",
+      "text": "The difference? One minute between sets, or three."
+    },
+    {
+      "id": "s07",
+      "text": "The three-minute group made bigger gains in bench press and squat strength."
+    },
+    {
+      "id": "s08",
+      "text": "They also gained more muscle thickness at the front of the thigh."
+    },
+    {
+      "id": "s09",
+      "text": "But the advantage was not clear in every muscle they measured."
+    },
+    {
+      "id": "s10",
+      "text": "And twenty-one men over eight weeks cannot settle this for everybody."
+    },
+    {
+      "id": "s11",
+      "text": "A later review combined nine studies."
+    },
+    {
+      "id": "s12",
+      "text": "It found a small possible muscle-growth benefit from rests longer than a minute, with plenty of uncertainty."
+    },
+    {
+      "id": "s13",
+      "text": "It did not establish that three minutes always beats ninety seconds."
+    },
+    {
+      "id": "s14",
+      "text": "The practical question is simple: are you ready to make the next set count?"
+    },
+    {
+      "id": "s15",
+      "text": "If a timer sends you back before you're ready, your rest deserves a second look."
+    }
+  ],
+  "sources": [
+    {
+      "id": "schoenfeld2016",
+      "title": "Longer Interset Rest Periods Enhance Muscle Strength and Hypertrophy in Resistance-Trained Men",
+      "authors": "Schoenfeld et al.",
+      "year": 2016,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/",
+      "doi": "10.1519/JSC.0000000000001272",
+      "design": "Randomized trial; 21 young resistance-trained men; eight weeks; one versus three minutes between sets; three full-body sessions per week.",
+      "claim_scope": "The three-minute group improved squat and bench 1RM more and gained more anterior-thigh muscle thickness. Do not generalize this to every muscle or demographic.",
+      "display_citation": "Schoenfeld et al. \u00b7 2016"
+    },
+    {
+      "id": "singer2024",
+      "title": "Give it a rest: a systematic review with Bayesian meta-analysis on the effect of inter-set rest interval duration on muscle hypertrophy",
+      "authors": "Singer et al.",
+      "year": 2024,
+      "url": "https://doi.org/10.3389/fspor.2024.1429789",
+      "doi": "10.3389/fspor.2024.1429789",
+      "design": "Systematic review and Bayesian meta-analysis; nine studies.",
+      "claim_scope": "A small possible hypertrophy advantage with rest intervals above 60 seconds, with wide uncertainty. This is not an exact three-minute prescription.",
+      "display_citation": "Singer et al. \u00b7 2024 / 9-study review"
+    }
+  ],
+  "factual_caveat": "The 2016 randomized trial studied only 21 young resistance-trained men over eight weeks. Greater gains occurred in squat/bench strength and anterior-thigh thickness, not every muscle measured. The 2024 synthesis found a small possible hypertrophy benefit to longer rest with substantial uncertainty. Neither establishes a universal three-minute rule.",
+  "evidence_verified_utc": "2026-11-17",
+  "license_rechecked_url": "https://www.pexels.com/license/"
+}

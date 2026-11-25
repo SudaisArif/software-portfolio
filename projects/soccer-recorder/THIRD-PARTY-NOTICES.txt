@@ -1,0 +1,18 @@
+THIRD-PARTY SOFTWARE NOTICES
+
+FFmpeg 9.0.1
+https://ffmpeg.org/
+
+The Soccer Recorder distribution includes unmodified FFmpeg and ffprobe binaries
+built from the official FFmpeg 9.0.1 source release. They were configured without
+GPL components or third-party codec libraries and report the license:
+
+  GNU Lesser General Public License, version 2.1 or later
+
+The complete corresponding source archive, ffmpeg-9.0.1.tar.xz, and the applicable
+COPYING.LGPLv2.1 license text are included beside the application. The source
+archive SHA-256 is:
+
+  cf38e0e28c7e5605942c4a77755349b0145804a397af37eb1fb4c77cb237f635
+
+FFmpeg is a trademark of Fabrice Bellard, originator of the FFmpeg project.
